@@ -1,0 +1,15 @@
+-
+  date: 2017-01-12
+  slides: 
+  speaker: João Sedoc
+  speaker_url: https://sites.google.com/site/jsedoc/
+  title: First class
+  highlights:
+    - Goals for this seminar
+    - Who should take this class, and what will they have to do
+    - Introduction to Deep Learning
+  reading:
+    -
+      author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
+      title:  Machine Learning Basics - Chapter 5 of Deep Learning
+      url: http://www.deeplearningbook.org/contents/ml.html
