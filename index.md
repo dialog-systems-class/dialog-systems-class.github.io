@@ -50,7 +50,7 @@ Prerequisites
 : [CIS 419/519](http://www.cis.upenn.edu/~cis519/fall2014/) or [CIS 520](https://alliance.seas.upenn.edu/~cis520/wiki)
 
 Course Readings
-: Each lecture has an accompanying set of [academic papers](lectures.html)
+: The course will have [weekly required readings](readings.html).  A student will lead the discussion for each week's papers.
 
 Grading
 : TBD
