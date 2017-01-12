@@ -36,3 +36,4 @@ You should be excited about this assignment! You will be able to chat with your 
 4. Setup a minimalist python interface. One example to draw from is [https://github.com/anjishnu/ask-alexa-pykit](https://github.com/anjishnu/ask-alexa-pykit).
  
 
+5. Submit homework https://goo.gl/forms/Zpo76BTKgjDfXg1P2
