@@ -30,7 +30,7 @@ The point of the first assignment is to get to acquainted with the Amazon Alexa 
 
 You should be excited about this assignment! You will be able to chat with your own bot! Be creative and have fun.
 
-1. Sign up for [Amazon AWS](https://aws.amazon.com/console/). Note that you should to sign up with your @seas.upenn.edu account as this will ensure that there will be a 100$ credit that you will use for the third assignment when you train your first neural network. You will also get [Free Tier access](https://aws.amazon.com/free/)
+1. Sign up for [Amazon AWS](https://aws.amazon.com/console/). Note that you should to sign up with your @seas.upenn.edu account, and then sign up for [AWS Educate](https://aws.amazon.com/education/awseducate/apply/) as this should give you a $100 credit that you will use for the third assignment when you train your first neural network. You will also get [Free Tier access](https://aws.amazon.com/free/)
 2. Figure out how to start a AWS Lambda session
 3. Follow the instructions from [https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/testing-an-alexa-skill](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/testing-an-alexa-skill)
 4. Setup a minimalist python interface. One example to draw from is [https://github.com/anjishnu/ask-alexa-pykit](https://github.com/anjishnu/ask-alexa-pykit).
