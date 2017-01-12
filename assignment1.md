@@ -1,6 +1,6 @@
 ---
 layout: default
-img: raised-fist
+img: Alexa.png
 caption: Hello Alexa    
 title: Homework 1 "Say Hello Alexa"
 active_tab: homework
