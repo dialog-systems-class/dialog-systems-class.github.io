@@ -41,7 +41,7 @@ Instructors
 : [Lyle Ungar](http://www.cis.upenn.edu/~ungar/)
 
 Discussion Forum
-: [Piazza](piazza.com/upenn/spring2017/cis7007)
+: [Piazza](https://piazza.com/upenn/spring2017/cis7007)
 
 Time and place
 : Spring 2017, Tuesdays and Thursdays 2-3:30, Levine 512
