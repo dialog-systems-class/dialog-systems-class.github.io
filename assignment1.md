@@ -5,7 +5,7 @@ caption: Hello Alexa
 title: Homework 1 "Say Hello Alexa"
 active_tab: homework
 release_date: 2017-01-12
-due_date: 2016-01-19T14:00:00EST
+due_date: 2017-01-19T14:00:00EST
 ---
 
 <!-- Check whether the assignment is up to date -->
