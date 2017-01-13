@@ -19,7 +19,7 @@
   slides: 
   speaker: João Sedoc
   speaker_url: https://sites.google.com/site/jsedoc/
-  title: First class
+  title: Feedforward Neural Networks
   highlights:
     - Feedforward Deep NNs and their regularization
   reading:
