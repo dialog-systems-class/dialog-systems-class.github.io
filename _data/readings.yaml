@@ -31,3 +31,21 @@
       author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
       title:  Machine Learning Basics - Chapter 7 of Deep Learning
       url: http://www.deeplearningbook.org/contents/regularization.html
+
+-
+  date: 2017-01-19
+  slides: 
+  speaker: João Sedoc
+  speaker_url: https://sites.google.com/site/jsedoc/
+  title: Regularization
+  highlights:
+    - Feedforward Deep NNs and their regularization
+  reading:
+    -
+      author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
+      title:  Machine Learning Basics - Chapter 6 of Deep Learning
+      url: http://www.deeplearningbook.org/contents/mlp.html
+    -
+      author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
+      title:  Machine Learning Basics - Chapter 7 of Deep Learning
+      url: http://www.deeplearningbook.org/contents/regularization.html
