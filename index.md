@@ -53,7 +53,7 @@ Course Readings
 : The course will have [weekly required readings](readings.html).  A student will lead the discussion for each week's papers.
 
 Grading
-: TBD
+: Paper Presentation 10% + Project Demonstration 20% (checkpoints 5%) + Written report 40% + homeworks (4) 20% + reading assignments 10%
 
 Course materials
 : We're going to be working with Amazon Echo.
