@@ -49,3 +49,50 @@
       author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
       title:  Machine Learning Basics - Chapter 7 of Deep Learning
       url: http://www.deeplearningbook.org/contents/regularization.html
+
+-
+  date: 2017-01-24
+  slides: 
+  speaker: João Sedoc
+  speaker_url: https://sites.google.com/site/jsedoc/
+  title: Optimization
+  highlights:
+    - Optimization of neural networks with focus on tuning parameters
+  reading:
+    -
+      author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
+      title:  Machine Learning Basics - Chapter 8 of Deep Learning
+      url: http://www.deeplearningbook.org/contents/optimization.html
+
+-
+  date: 2017-01-26
+  slides: 
+  speaker: João Sedoc
+  speaker_url: https://sites.google.com/site/jsedoc/
+  title: Recurrent and Recursive Neural Networks
+  highlights:
+    - Recurrent Neural networks and their relation to NLP
+  reading:
+    -
+      author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
+      title:  Machine Learning Basics - Chapter 10 of Deep Learning
+      url: http://www.deeplearningbook.org/contents/rnn.html
+
+-
+  date: 2017-01-31
+  slides: 
+  speaker: João Sedoc
+  speaker_url: https://sites.google.com/site/jsedoc/
+  title: Sequence to Sequence Learning
+  highlights:
+    - Sequence to sequence model
+  reading:
+    -
+      author: Ilya Sutskever, Oriol Vinyals, Quoc V. Le
+      title:  Sequence to Sequence Learning with Neural Networks
+      url: https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf
+    -
+      author: Oriol Vinyals, Quoc V. Le
+      title:  A Neural Conversational Model
+      url: https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf
+
