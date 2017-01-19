@@ -25,11 +25,11 @@
   reading:
     -
       author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
-      title:  Machine Learning Basics - Chapter 6 of Deep Learning
+      title:  Deep Feedforward Networks - Chapter 6 of Deep Learning
       url: http://www.deeplearningbook.org/contents/mlp.html
     -
       author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
-      title:  Machine Learning Basics - Chapter 7 of Deep Learning
+      title:  Regularization for Deep Learning - Chapter 7 of Deep Learning
       url: http://www.deeplearningbook.org/contents/regularization.html
 
 -
@@ -43,11 +43,11 @@
   reading:
     -
       author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
-      title:  Machine Learning Basics - Chapter 6 of Deep Learning
+      title: Deep Feedforward Networks  - Chapter 6 of Deep Learning
       url: http://www.deeplearningbook.org/contents/mlp.html
     -
       author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
-      title:  Machine Learning Basics - Chapter 7 of Deep Learning
+      title:  Regularization for Deep Learning - Chapter 7 of Deep Learning
       url: http://www.deeplearningbook.org/contents/regularization.html
 
 -
@@ -61,7 +61,7 @@
   reading:
     -
       author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
-      title:  Machine Learning Basics - Chapter 8 of Deep Learning
+      title:  Optimization for Training Deep Models - Chapter 8 of Deep Learning
       url: http://www.deeplearningbook.org/contents/optimization.html
 
 -
@@ -75,7 +75,7 @@
   reading:
     -
       author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
-      title:  Machine Learning Basics - Chapter 10 of Deep Learning
+      title:  Sequence Modeling: Recurrent and Recursive Nets - Chapter 10 of Deep Learning
       url: http://www.deeplearningbook.org/contents/rnn.html
 
 -
