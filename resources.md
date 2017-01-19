@@ -18,6 +18,10 @@ Resources
 
 - [Spoken Dialogue Systems](http://www.morganclaypool.com/doi/pdf/10.2200/S00204ED1V01Y200910HLT005) monograph by Kristiina Jokinen and Michael McTear (2010). Morgan and Claypool Synthesis Lectures on Human Language Technologies (edited by Graeme Hirst).
 
+### Amazon Alexa
+
+- [The Amazon Alexa Prize](https://developer.amazon.com/alexaprize)
+
 ### Data sets
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Data from Yahoo! Labs](https://webscope.sandbox.yahoo.com/catalog.php?datatype=l)
