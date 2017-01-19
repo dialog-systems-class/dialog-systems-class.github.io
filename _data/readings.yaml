@@ -75,7 +75,7 @@
   reading:
     -
       author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
-      title:  Sequence Modeling: Recurrent and Recursive Nets - Chapter 10 of Deep Learning
+      title:  Sequence Modeling Recurrent and Recursive Nets - Chapter 10 of Deep Learning
       url: http://www.deeplearningbook.org/contents/rnn.html
 
 -
