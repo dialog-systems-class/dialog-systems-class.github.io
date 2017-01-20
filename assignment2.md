@@ -5,7 +5,7 @@ caption: TensorFlow
 title: Homework 2 "TensorFlow"
 active_tab: homework
 release_date: 2017-01-17
-due_date: 2017-01-26T14:00:00EST
+due_date: 2017-01-31T14:00:00EST
 ---
 
 <!-- Check whether the assignment is up to date -->
