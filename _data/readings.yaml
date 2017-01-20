@@ -96,3 +96,37 @@
       title:  A Neural Conversational Model
       url: https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf
 
+-
+  date: 2017-02-02
+  slides: 
+  speaker: Marcus Tewksbury
+  speaker_url:
+  title: Guest Lecture
+  highlights:
+  reading:
+    -
+      author: Chia-Wei Liu, Ryan Lowe, Iulian V. Serban, Michael Noseworthy, Laurent Charlin, Joelle Pineau
+      title:  How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation
+      url: https://arxiv.org/abs/1603.08023
+
+-
+  date: 2017-02-07
+  slides: 
+  speaker: Xuchen Yao
+  speaker_url:
+  title: Guest Lecture
+  highlights:
+  reading:
+
+-
+  date: 2017-02-09
+  slides: 
+  speaker: Zhou Yu
+  speaker_url: http://www.cs.cmu.edu/~zhouyu/
+  title: Guest Lecture
+  highlights:
+  reading:
+    -
+      author: Zhou Yu, Ziyu Xu, Alan W Black, Alexander I. Rudnicky
+      title:  Chatbot Evaluation and Database Expansion via Crowdsourcing
+      url: http://workshop.colips.org/re-wochat/documents/04_Paper_11.pdf
