@@ -40,4 +40,4 @@ Be creative and have fun.
 5. Submit homework [https://goo.gl/forms/hZuE9ubmVAUFxwQh2](https://goo.gl/forms/hZuE9ubmVAUFxwQh2).
 
 * For question 2, please check in your code to the git repository as well as the response to the questions.
-* For question 4, please check in the code that you used. Even if you used the code from the tutorial, please add this. Also, please checking your last checkpoint as well as the final perplexity number. 
+* For question 4, please check in the code that you used. Even if you used the code from the tutorial, please add this. Also, please check in your last checkpoint as well as the final perplexity number. 
