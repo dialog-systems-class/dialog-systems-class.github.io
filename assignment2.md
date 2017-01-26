@@ -36,6 +36,8 @@ Be creative and have fun.
 1. Install TensorFlow on your computer, or somewhere where you have FREE personal access.
 2. Train an XOR model. Test our several variants and use TensorBoard. What issues did you have? Which activation functions did you try? Which loss functions? What architectures did you try? What were the different results? How long did it take? 
 3. Start a AWS instance with TensorFlow installed. See [https://github.com/ritchieng/tensorflow-aws-ami](https://github.com/ritchieng/tensorflow-aws-ami).
-3. Train the seq2seq model on English to French translation. Follow [https://www.tensorflow.org/tutorials/seq2seq/](https://www.tensorflow.org/tutorials/seq2seq/).
-4. Train seq2seq using chat data. For the dataset, you may choose between the twitter datasets [https://github.com/suriyadeepan/datasets/tree/master/seq2seq/twitter](https://github.com/suriyadeepan/datasets/tree/master/seq2seq/twitter) and the Ubuntu dataset [https://github.com/rkadlec/ubuntu-ranking-dataset-creator](https://github.com/rkadlec/ubuntu-ranking-dataset-creator). For both datasets there are good reference code to look at, particularly for the Ubuntu dataset there is [http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/).
+4. Train the seq2seq model on English to French translation. Follow [https://www.tensorflow.org/tutorials/seq2seq/](https://www.tensorflow.org/tutorials/seq2seq/).
 5. Submit homework [https://goo.gl/forms/hZuE9ubmVAUFxwQh2](https://goo.gl/forms/hZuE9ubmVAUFxwQh2).
+
+* For question 2, please check in your code to the git repository as well as the response to the questions.
+* For question 4, please check in the code that you used. Even if you used the code from the tutorial, please add this. Also, please checking your last checkpoint as well as the final perplexity number. 
