@@ -53,8 +53,39 @@ Course Readings
 : The course will have [weekly required readings](readings.html).  A student will lead the discussion for each week's papers.
 
 Grading
-: Paper Presentation 10% + Project Demonstration 20% (checkpoints 5%) + Written report 40% + homeworks (4) 20% + reading assignments 10%
+: This course is project based:
+
+* Paper Presentation 10% 
+* Project Demonstration 20% (checkpoints 5%)
+* Written report 40% 
+* Homeworks (4) 20% 
+* Reading assignments 10%
 
 Course materials
 : We're going to be working with Amazon Echo.
 
+Assignments:
+* HW3 - due Feb 9th 
+  * integrate your chatbot with Alexa skill 
+  * evaluate your chatbot
+
+* HW4 - due Feb 28th
+  * find a dataset to train your model on.
+  * train with seq2seq model
+  * Use a model a bit more sophisticated than seq2seq model
+  * evaluate model both models as well as model from HW3
+  * integrate models with Alexa skill 
+
+* Project checkpoint 1 - due March 14th
+  * write a two page overview of the project and a 10 minute presentation
+
+* Project checkpoint 2 - due April 11th
+   * modify first document to 4 pages with initial results, another 10 minute presentation, and first demo
+
+* Final project submission - due April 27th
+   * present results, and 20-30 minute presentation and demo
+   * submit 6 page paper - for open review
+
+* Final paper reviews due - due May 1st
+
+* Final paper submission - due May 9th
