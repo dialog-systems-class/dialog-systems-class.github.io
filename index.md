@@ -64,7 +64,8 @@ Grading
 Course materials
 : We're going to be working with Amazon Echo.
 
-Assignments:
+Assignments
+: Quick outline for the next assignments.
 
 * HW3 - due Feb 9th 
   * integrate your chatbot with Alexa skill 
