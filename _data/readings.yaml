@@ -169,3 +169,146 @@
       author: Iulian Vlad Serban, Ryan Lowe, Laurent Charlin, Joelle Pineau
       title: A Survey of Available Corpora For Building Data-Driven Dialogue Systems
       url: https://arxiv.org/abs/1512.05742
+
+-
+  date: 2017-02-18
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Ryan Lowe, Nissan Pow, Iulian Serban, Joelle Pineau
+      title: The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems
+      url: https://arxiv.org/abs/1506.08909
+
+-
+  date: 2017-02-21
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li
+      title: Incorporating Copying Mechanism in Sequence-to-Sequence Learning
+      url: https://arxiv.org/abs/1603.06393
+
+-
+  date: 2017-02-23
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Zongcheng Ji, Zhengdong Lu, Hang Li
+      title: An Information Retrieval Approach to Short Text Conversation
+      url: https://arxiv.org/abs/1408.6988
+
+-
+  date: 2017-02-28
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Yiping Song, Rui Yan, Xiang Li, Dongyan Zhao, Ming Zhang
+      title: Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems
+      url: https://arxiv.org/abs/1610.07149
+
+-
+  date: 2017-03-14
+  slides: 
+  speaker: João
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville, Joelle Pineau
+      title: Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models
+      url: https://arxiv.org/abs/1507.04808
+
+-
+  date: 2017-03-16
+  slides: 
+  speaker: João
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio
+      title: A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues
+      url: https://arxiv.org/abs/1605.06069
+
+-
+  date: 2017-03-21
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Jason Weston, Antoine Bordes, Sumit Chopra, Alexander M. Rush, Bart van Merriënboer, Armand Joulin, Tomas Mikolov
+      title: Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks
+      url: https://arxiv.org/abs/1502.05698
+
+-
+  date: 2017-03-23
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Chen Xing, Wei Wu, Yu Wu, Jie Liu, Yalou Huang, Ming Zhou, Wei-Ying Ma
+      title: Topic Aware Neural Response Generation
+      url: https://arxiv.org/abs/1606.08340
+
+-
+  date: 2017-03-28
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Ryan Lowe, Michael Noseworthy, Iulian Serban, Nicolas Angelard-Gontier, Yoshua Bengio, Joelle Pineau
+      title: Towards an Automatic Turing Test: Learning to Evaluate Dialogue Responses
+      url: https://openreview.net/pdf?id=HJ5PIaseg
+
+-
+  date: 2017-04-13
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston
+      title: Learning through Dialogue Interactions
+      url: https://arxiv.org/abs/1612.04936
+
+-
+  date: 2017-04-18
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, Dan Jurafsky
+      title: Deep Reinforcement Learning for Dialogue Generation
+      url: https://arxiv.org/pdf/1606.01541v4.pdf
