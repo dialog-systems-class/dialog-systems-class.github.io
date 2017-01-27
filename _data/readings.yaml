@@ -144,3 +144,28 @@
       title: Vector Semantics and Semantics with Dense Vectors
       url: https://web.stanford.edu/~jurafsky/slp3/16.pdf
 
+-
+  date: 2017-02-16
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Kaisheng Yao, Geoffrey Zweig, Baolin Peng
+      title: Attention with Intention for a Neural Network Conversation Model
+      url: https://arxiv.org/abs/1510.08565
+
+-
+  date: 2017-02-18
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Iulian Vlad Serban, Ryan Lowe, Laurent Charlin, Joelle Pineau
+      title: A Survey of Available Corpora For Building Data-Driven Dialogue Systems
+      url: https://arxiv.org/abs/1512.05742
