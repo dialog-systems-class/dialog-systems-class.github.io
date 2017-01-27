@@ -132,10 +132,10 @@
       url: http://workshop.colips.org/re-wochat/documents/04_Paper_11.pdf
 
 -
-  date:  "2017-02-14"
+  date:  2017-02-14
   slides: 
-  speaker: CCB
-  speaker_url: 
+  speaker: "Chris Callison-Burch"
+  speaker_url: http://www.cis.upenn.edu/~ccb/
   title: 
   highlights: 
   reading:
@@ -145,7 +145,7 @@
       url: https://web.stanford.edu/~jurafsky/slp3/16.pdf
 
  -
-  date:  "2017-02-16"
+  date:  2017-02-16
   slides: 
   speaker: Student TBD
   speaker_url: 
@@ -158,7 +158,7 @@
       url: https://arxiv.org/abs/1510.08565
 
  -
-  date:  "2017-02-18"
+  date:  2017-02-18
   slides: 
   speaker: Student TBD
   speaker_url: 
