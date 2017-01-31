@@ -157,6 +157,12 @@
       title: Attention with Intention for a Neural Network Conversation Model
       url: https://arxiv.org/abs/1510.08565
 
+    - 
+      author: Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio
+      title: Neural Machine Translation by Jointly Learning to Align and Translate
+      url: https://arxiv.org/pdf/1409.0473.pdf
+
+
 -
   date: 2017-02-18
   slides: 
