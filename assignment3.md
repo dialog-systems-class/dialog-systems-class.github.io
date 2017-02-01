@@ -26,7 +26,7 @@ This assignment is due before {{ page.due_date | date: "%I:%M%p" }} on {{ page.d
 Training your first Chatbot in  TensorFlow  <span class="text-muted">: Assignment 3</span> 
 =============================================================
 
-The point of the third assignment is to start training a chatbot with TensorFlow. In the Alexa Prize we want to design a deep learning social bot. The first step is to be able to train a seq2seq model. Now that you've understood how to train the basic seq2seq model, we'll focus on starting to reproduct the Neural Conversation Model code.
+The point of the third assignment is to start training a chatbot with TensorFlow. In the Alexa Prize we want to design a deep learning social bot. The first step is to be able to train a seq2seq model. Now that you've understood how to train the basic seq2seq model, we'll focus on starting to reproduce the Neural Conversation Model code.
 
 You should be excited about this assignment! You will be able to chat with your own bot!
 
