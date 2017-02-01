@@ -214,6 +214,18 @@
       url: https://arxiv.org/abs/1610.07149
 
 -
+  date: 2016-03-02
+  title: In class project brainstorm session
+
+-
+  date: 2016-03-07
+  title: No class - Spring Break
+
+-
+  date: 2016-03-09
+  title: No class - Spring Break
+
+-
   date: 2017-03-14
   slides: 
   speaker: João Sedoc
@@ -226,18 +238,14 @@
       title: Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models
       url: https://arxiv.org/abs/1507.04808
 
--
-  date: 2017-03-16
-  slides: 
-  speaker: João Sedoc
-  speaker_url: http://www.cis.upenn.edu/~joao/
-  title: 
-  highlights: 
-  reading:
     - 
       author: Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio
       title: A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues
       url: https://arxiv.org/abs/1605.06069
+
+-
+  date: 2016-03-16
+  title: Presentation of Project Checkpoint 1 
 
 -
   date: 2017-03-21
@@ -279,6 +287,10 @@
       url: https://openreview.net/pdf?id=HJ5PIaseg
 
 -
+  date: 2016-04-11
+  title: Presentation of Project Checkpoint 2
+
+-
   date: 2017-04-13
   slides: 
   speaker: Heejin Chloe Jeong
@@ -295,3 +307,8 @@
       author: Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, Dan Jurafsky
       title: Deep Reinforcement Learning for Dialogue Generation
       url: https://arxiv.org/pdf/1606.01541v4.pdf
+
+-
+  date: 2016-04-25
+  title: Project Presentations
+
