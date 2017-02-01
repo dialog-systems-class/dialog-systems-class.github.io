@@ -117,6 +117,14 @@
   title: Guest Lecture
   highlights:
   reading:
+    - 
+      author: Iulian Vlad Serban, Ryan Lowe, Laurent Charlin, Joelle Pineau
+      title: A Survey of Available Corpora For Building Data-Driven Dialogue Systems
+      url: https://arxiv.org/abs/1512.05742
+    - 
+      author: Ryan Lowe, Nissan Pow, Iulian Serban, Joelle Pineau
+      title: "The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems"
+      url: https://arxiv.org/abs/1506.08909
 
 -
   date: 2017-02-09
@@ -161,33 +169,6 @@
       author: Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio
       title: Neural Machine Translation by Jointly Learning to Align and Translate
       url: https://arxiv.org/pdf/1409.0473.pdf
-
-
--
-  date: 2017-02-18
-  slides: 
-  speaker: Student TBD
-  speaker_url:
-  title: 
-  highlights: 
-  reading:
-    - 
-      author: Iulian Vlad Serban, Ryan Lowe, Laurent Charlin, Joelle Pineau
-      title: A Survey of Available Corpora For Building Data-Driven Dialogue Systems
-      url: https://arxiv.org/abs/1512.05742
-
--
-  date: 2017-02-18
-  slides: 
-  speaker: Student TBD
-  speaker_url:
-  title: 
-  highlights: 
-  reading:
-    - 
-      author: Ryan Lowe, Nissan Pow, Iulian Serban, Joelle Pineau
-      title: "The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems"
-      url: https://arxiv.org/abs/1506.08909
 
 -
   date: 2017-02-21
