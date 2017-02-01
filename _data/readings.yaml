@@ -205,8 +205,8 @@
 -
   date: 2017-02-23
   slides: 
-  speaker: Student TBD
-  speaker_url:
+  speaker: Andy Anietie
+  speaker_url: 
   title: 
   highlights: 
   reading:
@@ -214,6 +214,10 @@
       author: Zongcheng Ji, Zhengdong Lu, Hang Li
       title: An Information Retrieval Approach to Short Text Conversation
       url: https://arxiv.org/abs/1408.6988
+    - 
+      author: Aliaksei Severyn and Alessandro Moschitti
+      title: Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks
+      url: https://pdfs.semanticscholar.org/73d8/26d4c2363701b88e3e234fe3b8756c0f9671.pdf
 
 -
   date: 2017-02-28
@@ -231,8 +235,8 @@
 -
   date: 2017-03-14
   slides: 
-  speaker: João
-  speaker_url:
+  speaker: João Sedoc
+  speaker_url:  http://www.cis.upenn.edu/~joao/
   title: 
   highlights: 
   reading:
@@ -244,8 +248,8 @@
 -
   date: 2017-03-16
   slides: 
-  speaker: João
-  speaker_url:
+  speaker: João Sedoc
+  speaker_url: http://www.cis.upenn.edu/~joao/
   title: 
   highlights: 
   reading:
@@ -296,7 +300,7 @@
 -
   date: 2017-04-13
   slides: 
-  speaker: Student TBD
+  speaker: Heejin Chloe Jeong
   speaker_url:
   title: 
   highlights: 
@@ -306,14 +310,6 @@
       title: Learning through Dialogue Interactions
       url: https://arxiv.org/abs/1612.04936
 
--
-  date: 2017-04-18
-  slides: 
-  speaker: Student TBD
-  speaker_url:
-  title: 
-  highlights: 
-  reading:
     - 
       author: Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, Dan Jurafsky
       title: Deep Reinforcement Learning for Dialogue Generation
