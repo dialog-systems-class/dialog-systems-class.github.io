@@ -1,6 +1,6 @@
 ---
 layout: default
-img: TensorFlow.png
+img: chatbot.png
 caption: Chatbot
 title: Homework 3 "First Chatbot!"
 active_tab: homework
