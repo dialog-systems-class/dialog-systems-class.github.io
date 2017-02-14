@@ -140,7 +140,11 @@
       url: http://workshop.colips.org/re-wochat/documents/04_Paper_11.pdf
 
 -
-  date: 2017-02-14
+  date: 2016-02-14
+  title: Paper Recap
+
+-
+  date: 2017-02-16
   slides: 
   speaker: "Chris Callison-Burch"
   speaker_url: http://www.cis.upenn.edu/~ccb/
@@ -153,35 +157,13 @@
       url: https://web.stanford.edu/~jurafsky/slp3/16.pdf
 
 -
-  date: 2017-02-16
-  slides: 
-  speaker: Student TBD
-  speaker_url:
-  title: 
-  highlights: 
+  date: 2016-02-21
+  title: In class project brainstorm session
   reading:
     - 
-      author: Kaisheng Yao, Geoffrey Zweig, Baolin Peng
-      title: Attention with Intention for a Neural Network Conversation Model
-      url: https://arxiv.org/abs/1510.08565
-
-    - 
-      author: Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio
-      title: Neural Machine Translation by Jointly Learning to Align and Translate
-      url: https://arxiv.org/pdf/1409.0473.pdf
-
--
-  date: 2017-02-21
-  slides: 
-  speaker: Student TBD
-  speaker_url:
-  title: 
-  highlights: 
-  reading:
-    - 
-      author: Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li
-      title: "Incorporating Copying Mechanism in Sequence-to-Sequence Learning"
-      url: https://arxiv.org/abs/1603.06393
+      author: Michael McTear, Zoraida Callejas, David Griol
+      title: Introducing the Conversational Interface - Chapters 3,4
+      url: http://link.springer.com/chapter/10.1007/978-3-319-32967-3_1
 
 -
   date: 2017-02-23
@@ -209,13 +191,28 @@
   highlights: 
   reading:
     - 
-      author: Yiping Song, Rui Yan, Xiang Li, Dongyan Zhao, Ming Zhang
-      title: "Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems"
-      url: https://arxiv.org/abs/1610.07149
+      author: Kaisheng Yao, Geoffrey Zweig, Baolin Peng
+      title: Attention with Intention for a Neural Network Conversation Model
+      url: https://arxiv.org/abs/1510.08565
+
+    - 
+      author: Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio
+      title: Neural Machine Translation by Jointly Learning to Align and Translate
+      url: https://arxiv.org/pdf/1409.0473.pdf
 
 -
-  date: 2016-03-02
-  title: In class project brainstorm session
+  date: 2017-03-02
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li
+      title: "Incorporating Copying Mechanism in Sequence-to-Sequence Learning"
+      url: https://arxiv.org/abs/1603.06393
+
 
 -
   date: 2016-03-07
@@ -228,8 +225,21 @@
 -
   date: 2017-03-14
   slides: 
-  speaker: João Sedoc
-  speaker_url:  http://www.cis.upenn.edu/~joao/
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Yiping Song, Rui Yan, Xiang Li, Dongyan Zhao, Ming Zhang
+      title: "Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems"
+      url: https://arxiv.org/abs/1610.07149
+
+-
+  date: 2017-03-16
+  slides: 
+  speaker: Student TBD
+  speaker_url:  
   title: 
   highlights: 
   reading:
@@ -287,11 +297,7 @@
       url: https://openreview.net/pdf?id=HJ5PIaseg
 
 -
-  date: 2016-04-11
-  title: Presentation of Project Checkpoint 2
-
--
-  date: 2017-04-13
+  date: 2017-04-04
   slides: 
   speaker: Heejin Chloe Jeong
   speaker_url:
@@ -309,6 +315,40 @@
       url: https://arxiv.org/pdf/1606.01541v4.pdf
 
 -
-  date: 2016-04-25
+  date: 2017-04-06
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Alessandro Sordoni, Michel Galley, Michael Auli, Chris Brockett, Yangfeng Ji, Meg Mitchell, Jian-Yun Nie, Jianfeng Gao, Bill Dolan
+      title: "A Neural Network Approach to Context-Sensitive Generation of Conversational Responses"
+      url: https://www.microsoft.com/en-us/research/wp-content/uploads/2015/06/N15-1020.pdf
+    - 
+      author: Jiwei Li, Michel Galley, Chris Brockett, Georgios P. Spithourakis, Jianfeng Gao, Bill Dolan
+      title: "A Persona-Based Neural Conversation Model"
+      url: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/03/1603.06155v2.pdf
+
+-
+  date: 2017-04-08
+  slides: 
+  speaker: Student TBD
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Chris Quirk, Raymond Mooney, Michel Galley
+      title: "Language to Code: Learning Semantic Parsers for If-This-Then-That Recipes"
+      url: http://www.cs.utexas.edu/~ml/papers/quirk.acl15.pdf
+
+-
+  date: 2016-04-11
+  title: Presentation of Project Checkpoint 2
+
+-
+  date: 2016-04-26
   title: Project Presentations
 
