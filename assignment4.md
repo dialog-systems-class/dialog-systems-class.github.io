@@ -39,5 +39,5 @@ Be creative and have fun.
 4. Use a more sophisticated model than seq2seq. For example try to capture context, or infer question or topic, ...
 5. Evaluate your model as well as the seq2seq model. Which does better? Also, try out your model from HW3. How does this do compared with models trained on your dataset?  Again, as you evaluate your chatbot, you should show some qualitative examples as well as train and test loss.
 6. Integrate your models with Alexa Skills.
-7. Submit homework [https://goo.gl/forms/FcvNJVwol6eV9T7j2](https://goo.gl/forms/FcvNJVwol6eV9T7j2).
+7. Submit homework [https://goo.gl/forms/0NrRbmfJk3OPJBmJ2](https://goo.gl/forms/0NrRbmfJk3OPJBmJ2).
 
