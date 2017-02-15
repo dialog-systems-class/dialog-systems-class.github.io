@@ -67,17 +67,6 @@ Course materials
 Assignments
 : Quick outline for the next assignments.
 
-* HW3 - due Feb 9th 
-  * integrate your chatbot with Alexa skill 
-  * evaluate your chatbot
-
-* HW4 - due Feb 28th
-  * find a dataset to train your model on.
-  * train with seq2seq model
-  * Use a model a bit more sophisticated than seq2seq model
-  * evaluate model both models as well as model from HW3
-  * integrate models with Alexa skill 
-
 * Project checkpoint 1 - due March 14th
   * write a two page overview of the project and a 10 minute presentation
 
