@@ -1,6 +1,6 @@
 ---
 layout: default
-img: chatbot.png
+img: chatbot2.png
 caption: Chatbot
 title: Homework 4 "Your Chatbot!"
 active_tab: homework
