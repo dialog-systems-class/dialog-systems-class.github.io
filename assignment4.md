@@ -5,7 +5,7 @@ caption: Chatbot
 title: Homework 4 "Your Chatbot!"
 active_tab: homework
 release_date: 2017-02-15
-due_date: 2017-02-28T14:00:00EST
+due_date: 2017-03-07T14:00:00EST
 ---
 
 <!-- Check whether the assignment is up to date -->
