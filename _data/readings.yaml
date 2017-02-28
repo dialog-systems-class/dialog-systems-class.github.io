@@ -167,6 +167,14 @@
 
 -
   date: 2017-02-23
+  slides: https://drive.google.com/file/d/0B5zBtTsMgNwDTlJraENVakZPMjA/view
+  speaker: Verena Rieser
+  speaker_url: https://sites.google.com/site/verenateresarieser/
+  title: From Dialogue Systems to Social Chatbots: Reinforcement Learning, Seq2Seq, and back again
+  highlights: Joint CLUNCH talk: Spoken Dialogue Systems have experienced a revolution over the past decade: They went from being completely hand-crafted to using data-driven methods, including techniques like Reinforcement Learning (RL) and Seq2Seq modelling.
+
+-
+  date: 2017-02-23
   slides: 
   speaker: Andy Anietie
   speaker_url: 
