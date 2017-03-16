@@ -231,7 +231,7 @@
   title: No class - Spring Break
 
 -
-  date: 2017-03-14
+  date: 2017-03-16
   slides: 
   speaker: Abheek Basu
   speaker_url:
@@ -245,6 +245,28 @@
 
 -
   date: 2017-03-16
+  title: Presentation of Project Checkpoint 1 
+
+-
+  date: 2017-03-21
+  slides: 
+  speaker: Alborz Geramifard
+  speaker_url:
+  title: Data Driven Dialog Management
+  highlights: 
+  reading:
+    - 
+      author: "Alborz Geramifard, et al."
+      title: "Chapter 1 to 2.3 from A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning"
+      url: http://alborz-geramifard.com/Files/13FTML-RLTutorial.date
+    - 
+      author: "Richard S. Sutton and Andrew G. Barto"
+      title: "Chapters 1-3 Reinforcement Learning: An Introduction"
+      url: http://alborz-geramifard.com/Files/13FTML-RLTutorial.date
+
+
+-
+  date: 2017-03-23
   slides: 
   speaker: Sajal Choudhary
   speaker_url:  
@@ -262,11 +284,7 @@
       url: https://arxiv.org/abs/1605.06069
 
 -
-  date: 2017-03-16
-  title: Presentation of Project Checkpoint 1 
-
--
-  date: 2017-03-21
+  date: 2017-03-28
   slides: 
   speaker: Mansi Vashisht
   speaker_url:
@@ -279,7 +297,7 @@
       url: https://arxiv.org/abs/1502.05698
 
 -
-  date: 2017-03-23
+  date: 2017-04-04
   slides: 
   speaker: Daphne Ippolito
   speaker_url:
@@ -292,7 +310,7 @@
       url: https://arxiv.org/abs/1606.08340
 
 -
-  date: 2017-03-28
+  date: 2017-04-06
   slides: 
   speaker: Krzysztof Jordan
   speaker_url:
@@ -305,7 +323,7 @@
       url: https://openreview.net/pdf?id=HJ5PIaseg
 
 -
-  date: 2017-04-04
+  date: 2017-04-11
   slides: 
   speaker: Heejin Chloe Jeong
   speaker_url:
@@ -323,7 +341,7 @@
       url: https://arxiv.org/pdf/1606.01541v4.pdf
 
 -
-  date: 2017-04-06
+  date: 2017-04-13
   slides: 
   speaker: Yoni Nachmany
   speaker_url:
@@ -340,7 +358,7 @@
       url: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/03/1603.06155v2.pdf
 
 -
-  date: 2017-04-11
+  date: 2017-04-18
   slides: 
   speaker: Grishma Jena
   speaker_url:
