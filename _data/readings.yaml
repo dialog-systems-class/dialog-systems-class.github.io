@@ -297,6 +297,19 @@
       url: https://arxiv.org/abs/1502.05698
 
 -
+  date: 2017-03-28
+  slides: 
+  speaker: Joao Sedoc
+  speaker_url:
+  title: 
+  highlights: 
+  reading:
+    - 
+      author: Quan Hung Tran, Ingrid Zukerman, and Gholamreza Haffari
+      title: "A Hierarchical Neural Model for Learning Sequences of Dialogue Acts"
+      url: http://users.monash.edu.au/~gholamrh/publications/eacl17_da.pdf
+
+-
   date: 2017-04-04
   slides: 
   speaker: Daphne Ippolito
