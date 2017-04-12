@@ -70,13 +70,14 @@ Assignments
 * Project checkpoint 1 - due March 16th
   * write a two page overview of the project and a 10 minute presentation
 
-* Project checkpoint 2 - due April 11th
+* Project checkpoint 2 - due April 13th
    * modify first document to 4 pages with initial results, another 10 minute presentation, and first demo
 
 * Final project submission - due April 27th
-   * present results, and 20-30 minute presentation and demo
    * submit 6 page paper - for open review
 
 * Final paper reviews due - due May 1st
+
+* During the final exam period 20-30 minute presentation and demo
 
 * Final paper submission - due May 9th
