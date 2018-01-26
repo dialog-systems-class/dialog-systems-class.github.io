@@ -1,8 +1,8 @@
 -
   date: 2017-01-12
-  slides: http://dialog-systems-class.org/slides/class-intro.ppt
+  slides: http://dialog-systems-class.github.io/slides/class-intro.ppt
   speaker: João Sedoc
-  speaker_url: https://sites.google.com/site/jsedoc/
+  speaker_url: http://www.seas.upenn.edu/~joao
   title: First class
   highlights:
     - Goals for this seminar
@@ -16,9 +16,9 @@
 
 -
   date: 2017-01-17
-  slides: http://dialog-systems-class.org/slides/fnn-regularization-lec-2.ppt
+  slides: http://dialog-systems-class.github.io/slides/fnn-regularization-lec-2.ppt
   speaker: João Sedoc
-  speaker_url: https://sites.google.com/site/jsedoc/
+  speaker_url: http://www.seas.upenn.edu/~joao
   title: Feedforward Neural Networks
   highlights:
     - Feedforward Deep NNs and their regularization
@@ -34,9 +34,9 @@
 
 -
   date: 2017-01-19
-  slides: http://dialog-systems-class.org/slides/fnn-regularization-lec-3.ppt
+  slides: http://dialog-systems-class.github.io/slides/fnn-regularization-lec-3.ppt
   speaker: João Sedoc
-  speaker_url: https://sites.google.com/site/jsedoc/
+  speaker_url: http://www.seas.upenn.edu/~joao
   title: Regularization
   highlights:
     - Feedforward Deep NNs and their regularization
@@ -52,9 +52,9 @@
 
 -
   date: 2017-01-24
-  slides: http://dialog-systems-class.org/slides/nn-optimization-lec-4.ppt
+  slides: http://dialog-systems-class.github.io/slides/nn-optimization-lec-4.ppt
   speaker: João Sedoc
-  speaker_url: https://sites.google.com/site/jsedoc/
+  speaker_url: http://www.seas.upenn.edu/~joao
   title: Optimization
   highlights:
     - Optimization of neural networks with focus on tuning parameters
@@ -66,9 +66,9 @@
 
 -
   date: 2017-01-26
-  slides: http://dialog-systems-class.org/slides/rnn-lec-5.ppt
+  slides: http://dialog-systems-class.github.io/slides/rnn-lec-5.ppt
   speaker: João Sedoc
-  speaker_url: https://sites.google.com/site/jsedoc/
+  speaker_url: http://www.seas.upenn.edu/~joao
   title: Recurrent and Recursive Neural Networks
   highlights:
     - Recurrent Neural networks and their relation to NLP
@@ -80,9 +80,9 @@
 
 -
   date: 2017-01-31
-  slides: http://dialog-systems-class.org/slides/seq2seq-lec-6.ppt
+  slides: http://dialog-systems-class.github.io/slides/seq2seq-lec-6.ppt
   speaker: João Sedoc
-  speaker_url: https://sites.google.com/site/jsedoc/
+  speaker_url: http://www.seas.upenn.edu/~joao
   title: Sequence to Sequence Learning
   highlights:
     - Sequence to sequence model
