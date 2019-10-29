@@ -1,5 +1,5 @@
 ---
-title: Deep Learning Methods for Automated Discourse - CIS 700  Special Topics - University of Pennsylvania
+title: Deep Learning for Automated Discourse- EN.601.767  - Johns Hopkins University
 layout: default
 img: HAL.png
 img_link: https://en.wikipedia.org/wiki/HAL_9000
@@ -33,21 +33,19 @@ It is due before {{ page.due_date | date: "%I:%M%p" }} on {{ page.due_date | dat
 
 
 Course number
-: CIS 700-7 - Special Topics - Deep Learning Methods for Automated Discourse
+:  - Deep Learning Methods for Automated Discourse
 
-Instructors
+Instructor
 : [João Sedoc](https://sites.google.com/site/jsedoc/)
-: [Chris Callison-Burch](http://www.cis.upenn.edu/~ccb/)
-: [Lyle Ungar](http://www.cis.upenn.edu/~ungar/)
 
 Discussion Forum
-: [Piazza](https://piazza.com/upenn/spring2017/cis7007)
+: [Piazza](https://piazza.com/)
 
 Time and place
-: Spring 2017, Tuesdays and Thursdays 2-3:30, Levine 512
+: Spring 2020, Tuesdays and Thursdays 3-4:15,  Hodson 303
 
 Prerequisites
-: [CIS 419/519](http://www.cis.upenn.edu/~cis519/fall2014/) or [CIS 520](https://alliance.seas.upenn.edu/~cis520/wiki)
+: 
 
 Course Readings
 : The course will have [weekly required readings](readings.html).  A student will lead the discussion for each week's papers.
@@ -57,27 +55,28 @@ Grading
 
 * Paper Presentation 10% 
 * Project Demonstration 20% (checkpoints 5%)
-* Written report 40% 
+* Written report 35%
+* Report Review 5%
 * Homeworks (4) 20% 
 * Reading assignments 10%
 
 Course materials
-: We're going to be working with Amazon Echo.
+: We're going to be working with Amazon Echo and PyTorch.
 
 Assignments
 : Quick outline for the next assignments.
 
-* Project checkpoint 1 - due March 16th
+* Project checkpoint 1 - due ~ March 16th
   * write a two page overview of the project and a 10 minute presentation
 
-* Project checkpoint 2 - due April 13th
+* Project checkpoint 2 - due ~ April 13th
    * modify first document to 4 pages with initial results, another 10 minute presentation, and first demo
 
-* Final project paper submission - due April 27th 
+* Final project paper submission - due ~ April 27th 
    * submit 6 page paper - for open review
 
 * Final paper reviews due - due May 1st
 
-* During the final exam period (Wednesday May 3 9:00 a.m. -11:00 a.m)  20-30 minute presentation and demo
+* During the final exam period (TBD)  20-30 minute presentation and demo
 
-* Final paper submission - due May 9th
+* Final paper submission - due ~ May 9th
