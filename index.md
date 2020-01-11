@@ -39,7 +39,7 @@ Instructor
 : [João Sedoc](https://sites.google.com/site/jsedoc/)
 
 Discussion Forum
-: [Piazza](https://piazza.com/)
+: [Piazza](https://piazza.com/class/k541crp27qs4my)
 
 Time and place
 : Spring 2020, Tuesdays and Thursdays 3-4:15,  Hodson 303
