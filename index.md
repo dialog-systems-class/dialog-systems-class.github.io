@@ -33,7 +33,7 @@ It is due before {{ page.due_date | date: "%I:%M%p" }} on {{ page.due_date | dat
 
 
 Course number
-:  - Deep Learning Methods for Automated Discourse
+: EN.601.767 - Deep Learning Methods for Automated Discourse
 
 Instructor
 : [João Sedoc](https://sites.google.com/site/jsedoc/)
@@ -77,6 +77,6 @@ Assignments
 
 * Final paper reviews due - due May 1st
 
-* During the final exam period (TBD)  20-30 minute presentation and demo
+* During the final exam period May 7th 9 AM - 12 PMx  20-30 minute presentation and demo
 
 * Final paper submission - due ~ May 9th
