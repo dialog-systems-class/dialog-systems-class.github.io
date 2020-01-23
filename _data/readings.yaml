@@ -26,7 +26,7 @@
 
 -
   date: 2020-01-30
-  slides: http://dialog-systems-class.github.io/slides/fnn-regularization-lec-2.ppt
+  slides: 
   speaker: João Sedoc
   speaker_url: http://www.seas.upenn.edu/~joao
   title: Regularization, Parameter Tuning, and  Recurrent Neural Networks
@@ -45,7 +45,7 @@
 
 -
   date: 2020-02-04
-  slides: http://dialog-systems-class.github.io/slides/rnn-lec-5.ppt
+  slides: 
   speaker: João Sedoc
   speaker_url: http://www.seas.upenn.edu/~joao
   title: Regularization, Parameter Tuning, and  Recurrent Neural Networks continued
@@ -64,7 +64,7 @@
 
 -
   date: 2020-02-06
-  slides: http://dialog-systems-class.github.io/slides/seq2seq-lec-6.ppt
+  slides: 
   speaker: João Sedoc
   speaker_url: http://www.seas.upenn.edu/~joao
   title: Sequence to Sequence Learning
