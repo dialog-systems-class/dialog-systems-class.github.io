@@ -1,11 +1,11 @@
 ---
 layout: default
-img: TensorFlow.png
-caption: TensorFlow
-title: Homework 2 "TensorFlow"
+img: ParlAi.png
+caption: ParlAi
+title: Homework 2 "PyTorch and ParlAi"
 active_tab: homework
-release_date: 2017-01-17
-due_date: 2017-01-31T14:00:00EST
+release_date: 2020-01-27
+due_date: 2020-02-07T14:00:00EST
 ---
 
 <!-- Check whether the assignment is up to date -->
@@ -23,21 +23,21 @@ This assignment is due before {{ page.due_date | date: "%I:%M%p" }} on {{ page.d
 </div>
 
 
-Learning TensorFlow  <span class="text-muted">: Assignment 2</span> 
+Learning ParlAi  <span class="text-muted">: Assignment 2</span> 
 =============================================================
 
-The point of the first assignment is to get to acquainted with TensorFlow. In the Alexa Prize we want to design a deep learning social bot. The second step is to be able to train a seq2seq model. This involves installing TensorFlow and then training the first models. This code will probably not be the base of your model, but be a start to understand seq2seq models and model training in TensorFlow.
+The point of the first assignment is to get to acquainted with PyTorch. The second step is to be able to train a seq2seq model. This involves installing PyTorch and ParlAi and then training the first models. This homework will get you acquanted with ParlAi.
 
 You should be excited about this assignment! You will be able to chat with your own bot!
 
 Be creative and have fun.
  
 
-1. Install TensorFlow on your computer, or somewhere where you have FREE personal access.
-2. Train an XOR model. Test our several variants and use TensorBoard. What issues did you have? Which activation functions did you try? Which loss functions? What architectures did you try? What were the different results? How long did it take? 
-3. Start a AWS instance with TensorFlow installed. See [https://github.com/ritchieng/tensorflow-aws-ami](https://github.com/ritchieng/tensorflow-aws-ami).
-4. Train the seq2seq model on English to French translation. Follow [https://www.tensorflow.org/tutorials/seq2seq/](https://www.tensorflow.org/tutorials/seq2seq/).
-5. Submit homework [https://goo.gl/forms/hZuE9ubmVAUFxwQh2](https://goo.gl/forms/hZuE9ubmVAUFxwQh2).
+1. Make a fork of ParlAi and install it on your computer, or somewhere where you have FREE personal access.
+2. Start a AWS or Google Cloud GPU instance with PyTorch installed.
+3. Train the seq2seq model in ParlAi on the Twitter dataset which is automatically downloaded using ParlAi.
+4. Record 5 chat logs with your chatbot and also 5 conversations from one of the ParlAi models in their [model zoo](https://www.parl.ai/docs/zoo.html).
+5. Submit homework via [gradescope](https://www.gradescope.com/courses/85654).
 
 * For question 2, please check in your code to the git repository as well as the response to the questions.
 * For question 4, please check in the code that you used. Even if you used the code from the tutorial, please add this. Also, please check in your last checkpoint as well as the final perplexity number. 
