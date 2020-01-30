@@ -53,4 +53,4 @@ You should test your skill using Echosim.io.
 
  
 
-7. Submit homework via [GradeScope](https://www.gradescope.com/courses/85654).
+7. You should have at least three files in the repository: (lambda_function.py and/or alexa_server.py)  and interaction_model.json, as well as a README.md for repro steps. Submit homework via [GradeScope](https://www.gradescope.com/courses/85654). For further inspiration and how to structure your code see [Daphne Ippolito's repo](https://github.com/daphnei/nn_chatbot/tree/master/homeworks/alexa_chatbot).
