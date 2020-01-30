@@ -25,8 +25,8 @@
 
 
 -
-  date: 2 https://drive.google.com/open?id=1a0Pfmev0CCKYXR8HuM75jdRcY0YA0lTu020-01-30
-  slides: 
+  date: 2020-01-30
+  slides: https://drive.google.com/open?id=1a0Pfmev0CCKYXR8HuM75jdRcY0YA0lTu
   speaker: João Sedoc
   speaker_url: http://www.seas.upenn.edu/~joao
   title: Regularization, Parameter Tuning, and  Recurrent Neural Networks
@@ -48,23 +48,23 @@
   slides: 
   speaker: João Sedoc
   speaker_url: http://www.seas.upenn.edu/~joao
-  title: Regularization, Parameter Tuning, and  Recurrent Neural Networks continued
+  title: Sequence to Sequence Learning
   highlights:
-    - Optimization of neural networks with focus on tuning parameters
-    - Recurrent Neural networks and their relation to NLP
+    - Sequence to sequence model
+    - Transformer model
   reading:
-    -
-      author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
-      title: Deep Feedforward Networks  - Chapter 6 of Deep Learning
-      url: http://www.deeplearningbook.org/contents/mlp.html
-    -
-      author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
-      title:  Regularization for Deep Learning - Chapter 7 of Deep Learning
-      url: http://www.deeplearningbook.org/contents/regularization.html
     -
       author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
       title:  Sequence Modeling Recurrent and Recursive Nets - Chapter 10 of Deep Learning
       url: http://www.deeplearningbook.org/contents/rnn.html
+    -
+      author: Ilya Sutskever, Oriol Vinyals, Quoc V. Le
+      title:  Sequence to Sequence Learning with Neural Networks
+      url: https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf
+    -
+      author: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
+      title:  Attention Is All You Need (Transformer Model)
+      url: https://arxiv.org/abs/1706.03762
 
 -
   date: 2020-02-06
@@ -74,15 +74,8 @@
   title: Sequence to Sequence Learning
   highlights:
     - Sequence to sequence model
+    - Neural Conversation Models
   reading:
-    -
-      author: Ilya Sutskever, Oriol Vinyals, Quoc V. Le
-      title:  Sequence to Sequence Learning with Neural Networks
-      url: https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf
-    -
-      author: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
-      title:  Attention Is All You Need (Transformer Model)
-      url: https://arxiv.org/abs/1706.03762
     -
       author: Oriol Vinyals, Quoc V. Le
       title:  A Neural Conversational Model
