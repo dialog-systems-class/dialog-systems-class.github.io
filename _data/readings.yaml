@@ -116,7 +116,7 @@
   reading:
     - 
       author: Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
-      title: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+      title: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
       url: https://arxiv.org/abs/1810.04805
     - 
       author: Samuel Humeau, Kurt Shuster, Marie-Anne Lachaux, Jason Weston
