@@ -77,9 +77,17 @@
     - Neural Conversation Models
   reading:
     -
+      author: Alan Ritter, Colin Cherry, William B. Dolan
+      title: "Data-Driven Response Generation in Social Media"
+      url: https://www.aclweb.org/anthology/D11-1054/
+    -
       author: Oriol Vinyals, Quoc V. Le
       title:  A Neural Conversational Model
       url: https://arxiv.org/pdf/1506.05869v3.pdf
+    -
+      author: Yizhe Zhang, Siqi Sun, Michel Galley, Yen-Chun Chen, Chris Brockett, Xiang Gao, Jianfeng Gao, Jingjing Liu, Bill Dolan
+      title:  "DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation"
+      url: https://arxiv.org/abs/1911.00536
 
 -
   date: 2020-02-11
@@ -107,13 +115,13 @@
   highlights:
   reading:
     - 
-      author: Iulian Vlad Serban, Ryan Lowe, Laurent Charlin, Joelle Pineau
-      title: A Survey of Available Corpora For Building Data-Driven Dialogue Systems
-      url: https://arxiv.org/abs/1512.05742
+      author: Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
+      title: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+      url: https://arxiv.org/abs/1810.04805
     - 
-      author: Ryan Lowe, Nissan Pow, Iulian Serban, Joelle Pineau
-      title: "The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems"
-      url: https://arxiv.org/abs/1506.08909
+      author: Samuel Humeau, Kurt Shuster, Marie-Anne Lachaux, Jason Weston
+      title: "Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring"
+      url: https://arxiv.org/abs/1905.01969
 
 -
   date: 2020-02-18
