@@ -5,7 +5,7 @@ caption: ParlAi
 title: Homework 2 "PyTorch and ParlAi"
 active_tab: homework
 release_date: 2020-01-27
-due_date: 2020-02-07T14:00:00EST
+due_date: 2020-02-10T14:00:00EST
 ---
 
 <!-- Check whether the assignment is up to date -->
