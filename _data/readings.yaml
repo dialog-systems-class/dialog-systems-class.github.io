@@ -85,9 +85,9 @@
       title:  A Neural Conversational Model
       url: https://arxiv.org/pdf/1506.05869v3.pdf
     -
-      author: Yizhe Zhang, Siqi Sun, Michel Galley, Yen-Chun Chen, Chris Brockett, Xiang Gao, Jianfeng Gao, Jingjing Liu, Bill Dolan
-      title:  "DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation"
-      url: https://arxiv.org/abs/1911.00536
+      author: Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville, Joelle Pineau
+      title:  Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models
+      url: https://arxiv.org/abs/1507.04808
 
 -
   date: 2020-02-11
@@ -97,6 +97,10 @@
   title: Corpora
   highlights:
   reading:
+    -
+      author: Yizhe Zhang, Siqi Sun, Michel Galley, Yen-Chun Chen, Chris Brockett, Xiang Gao, Jianfeng Gao, Jingjing Liu, Bill Dolan
+      title:  "DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation"
+      url: https://arxiv.org/abs/1911.00536
     - 
       author: Iulian Vlad Serban, Ryan Lowe, Laurent Charlin, Joelle Pineau
       title: A Survey of Available Corpora For Building Data-Driven Dialogue Systems
