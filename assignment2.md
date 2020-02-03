@@ -35,9 +35,8 @@ Be creative and have fun.
 
 1. Make a fork of ParlAi and install it on your computer, or somewhere where you have FREE personal access.
 2. Start a AWS or Google Cloud GPU instance with PyTorch installed.
-3. Train the seq2seq model in ParlAi on the Twitter dataset which is automatically downloaded using ParlAi.
-4. Record 5 chat logs with your chatbot and also 5 conversations from one of the ParlAi models in their [model zoo](https://www.parl.ai/docs/zoo.html).
-5. Submit homework via [gradescope](https://www.gradescope.com/courses/85654).
+3. Train the seq2seq model in ParlAi on the Twitter dataset which is automatically downloaded using ParlAi. (You may want to use [Google Colab](https://colab.research.google.com/), which allows for several hours of free GPU training). 
+5. Record 5 chat logs with your chatbot and also 5 conversations from one of the ParlAi models in their [model zoo](https://www.parl.ai/docs/zoo.html). Please save the conversations in the [Forever chat json format](https://github.com/jkeen/forever-chat-format).
+6. Submit homework via [gradescope](https://www.gradescope.com/courses/85654).
 
-* For question 2, please check in your code to the git repository as well as the response to the questions.
-* For question 4, please check in the code that you used. Even if you used the code from the tutorial, please add this. Also, please check in your last checkpoint as well as the final perplexity number. 
+* Please check in the code that you used (i.e. your fork of ParlAI. Even if you used the code from the tutorial, please add this. Also, please check in your last checkpoint as well as the final perplexity number. The conversations should be in [Forever chat json format](https://github.com/jkeen/forever-chat-format).
