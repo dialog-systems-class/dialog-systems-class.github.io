@@ -40,5 +40,5 @@ Be creative and have fun.
 5. Identify issues with your chatbot and suggest possible solutions and future work.
 6. Submit homework on [Gradescpoe](https://www.gradescope.com/courses/85654).
 
-Please remember to include a README. If there are too many files that simply point to your github.
+Please remember to include a README. If there are too many files that simply point to your github ... sorry about Gradescope.
 
