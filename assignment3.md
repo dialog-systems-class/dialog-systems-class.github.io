@@ -2,10 +2,10 @@
 layout: default
 img: chatbot.png
 caption: Chatbot
-title: Homework 3 "First Chatbot!"
+title: Homework 3 "HRED"
 active_tab: homework
-release_date: 2017-01-31
-due_date: 2017-02-16T14:00:00EST
+release_date: 2020-02-11
+due_date: 2020-02-21T15:00:00EST
 ---
 
 <!-- Check whether the assignment is up to date -->
@@ -23,20 +23,22 @@ This assignment is due before {{ page.due_date | date: "%I:%M%p" }} on {{ page.d
 </div>
 
 
-Training your first Chatbot in  TensorFlow  <span class="text-muted">: Assignment 3</span> 
+Implementing HRED in ParlAi  <span class="text-muted">: Assignment 3</span> 
 =============================================================
 
-The point of the third assignment is to start training a chatbot with TensorFlow. In the Alexa Prize we want to design a deep learning social bot. The first step is to be able to train a seq2seq model. Now that you've understood how to train the basic seq2seq model, we'll focus on starting to reproduce the Neural Conversation Model code.
+The point of the third assignment is to reimplement HRED in ParlAi. The focus of this project is to start to be able to build a model in the ParlAi framework and start to try different datasets. 
 
 You should be excited about this assignment! You will be able to chat with your own bot!
 
 Be creative and have fun.
  
 
-1. Make sure to first test your model with TensorFlow on your computer, or somewhere where you have FREE personal access.
-2. Train the Neural Conversation Model using Twitter, or Ubutu corpus. For the dataset, you may choose between the twitter datasets [https://github.com/suriyadeepan/datasets/tree/master/seq2seq/twitter](https://github.com/suriyadeepan/datasets/tree/master/seq2seq/twitter) and the Ubuntu dataset [https://github.com/rkadlec/ubuntu-ranking-dataset-creator](https://github.com/rkadlec/ubuntu-ranking-dataset-creator). For both datasets there are good reference code to look at, particularly for the Ubuntu dataset there is [http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/).
+1. Implement the HRED model within ParlAi. This involved creating the context vector and manipulating the data loading process. This does not have to be an exact reproduction of HRED. You may want to look at Harshal's [implementation](https://github.com/hsgodhia/hred) or Julian Serban's [old fork of ParlAi](https://github.com/julianser/ParlAI).
+2. Train the HRED model use any dataset that you'd like.
 3. Integrate your chatbot with Alexa skill
 4. Evaluate your chatbot. Here, you should show some qualitative examples as well as train and test loss. Furthermore, try to be creative and see if you can make a metric for how well your chatbot is doing. 
 5. Identify issues with your chatbot and suggest possible solutions and future work.
-6. Submit homework [https://goo.gl/forms/FcvNJVwol6eV9T7j2](https://goo.gl/forms/FcvNJVwol6eV9T7j2).
+6. Submit homework on [Gradescpoe](https://www.gradescope.com/courses/85654).
+
+Please remember to include a README. If there are too many files that simply point to your github.
 
