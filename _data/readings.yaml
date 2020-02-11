@@ -154,7 +154,7 @@
   reading:
     -
       author: Michel Galley, Chris Brockett, Alessandro Sordoni, Yangfeng Ji, Michael Auli, Chris Quirk, Margaret Mitchell, Jianfeng Gao, Bill Dolan
-      title:  deltaBLEU: A Discriminative Metric for Generation Tasks with Intrinsically Diverse Targets
+      title:  "deltaBLEU: A Discriminative Metric for Generation Tasks with Intrinsically Diverse Targets"
       url: https://arxiv.org/abs/1506.06863
     -
       author: Prakhar Gupta, Shikib Mehri, Tiancheng Zhao, Amy Pavel, Maxine Eskenazi, Jeffrey P. Bigham
@@ -171,12 +171,15 @@
 
 -
   date: 2020-03-03
-  title: Project brainstorming
-  slides: https://www.mishicotffa.org/uploads/2/3/2/7/23271034/microsoft_word_-_brainstorming_wksht.pdf
+  title: Story Generation
+  speaker: 
+  speaker_url: 
+
 
 -
   date: 2020-03-05
-  title: Student Paper Presentation 
+  title: Project brainstorming
+  slides: https://www.mishicotffa.org/uploads/2/3/2/7/23271034/microsoft_word_-_brainstorming_wksht.pdf
 
 -
   date: 2020-03-10
