@@ -130,19 +130,36 @@
 -
   date: 2020-02-18
   slides: 
-  speaker: 
+  speaker: João Sedoc
   speaker_url: 
-  title: 
+  title:  Sentence Scoring and Evaluation
   highlights:
   reading:
+    -
+      author: Chia-Wei Liu, Ryan Lowe, Iulian V. Serban, Michael Noseworthy, Laurent Charlin, Joelle Pineau
+      title:  How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation
+      url: https://arxiv.org/abs/1603.08023
     -
       author: Zhou Yu, Ziyu Xu, Alan W Black, Alexander I. Rudnicky
       title:  Chatbot Evaluation and Database Expansion via Crowdsourcing
       url: http://workshop.colips.org/re-wochat/documents/04_Paper_11.pdf
 
 -
-  date: 2020-02-20
-  title: Student Paper Presentation 
+  date: 2020-02-18
+  slides: 
+  speaker: 
+  speaker_url: 
+  title:  Evaluation continued
+  highlights:
+  reading:
+    -
+      author: Michel Galley, Chris Brockett, Alessandro Sordoni, Yangfeng Ji, Michael Auli, Chris Quirk, Margaret Mitchell, Jianfeng Gao, Bill Dolan
+      title:  deltaBLEU: A Discriminative Metric for Generation Tasks with Intrinsically Diverse Targets
+      url: https://arxiv.org/abs/1506.06863
+    -
+      author: Prakhar Gupta, Shikib Mehri, Tiancheng Zhao, Amy Pavel, Maxine Eskenazi, Jeffrey P. Bigham
+      title:  Investigating Evaluation of Open-Domain Dialogue Systems With Human Generated Multiple References
+      url: https://arxiv.org/abs/1907.10568
 
 -
   date: 2020-02-25
