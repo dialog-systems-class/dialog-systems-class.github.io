@@ -129,10 +129,10 @@
 
 -
   date: 2020-02-18
-  slides: 
+  slides: https://drive.google.com/open?id=1r1m4rrWmGeFBlDzhAiaFpAOPyvEO7VR7
   speaker: João Sedoc
   speaker_url: 
-  title:  Sentence Scoring and Evaluation
+  title:  Evaluation
   highlights:
   reading:
     -
@@ -149,7 +149,7 @@
   slides: 
   speaker: 
   speaker_url: 
-  title:  Evaluation continued
+  title:  Evaluation continued and Sentence Scoring
   highlights:
   reading:
     -
