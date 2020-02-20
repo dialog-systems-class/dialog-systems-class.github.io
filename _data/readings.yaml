@@ -145,11 +145,11 @@
       url: http://workshop.colips.org/re-wochat/documents/04_Paper_11.pdf
 
 -
-  date: 2020-02-18
-  slides: 
-  speaker: 
+  date: 2020-02-20
+  slides: https://drive.google.com/open?id=1NSHWa6WVS2yZTh5U9ceJcgU1IDff2XW2
+  speaker: João Sedoc
   speaker_url: 
-  title:  Evaluation continued and Sentence Scoring
+  title:  Evaluation continued
   highlights:
   reading:
     -
@@ -163,11 +163,37 @@
 
 -
   date: 2020-02-25
-  title: Student Paper Presentation 
+  speaker: João Sedoc
+  speaker_url: 
+  title: Diverse Decoding
+  highlights:
+  reading:
+    -
+      author: Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao, Bill Dolan
+      title:  A Diversity-Promoting Objective Function for Neural Conversation Models
+      url: https://www.aclweb.org/anthology/N16-1014/
+    -
+      author: Jiwei Li and Dan Jurafsky
+      title:  Mutual Information and Diverse Decoding Improve Neural Machine Translation
+      url: https://arxiv.org/pdf/1601.00372.pdf
+
 
 -
   date: 2020-02-27
-  title: Student Paper Presentation 
+  speaker: João Sedoc
+  speaker_url: 
+  title: Diverse Decoding continued
+  highlights:
+  reading:
+    -
+      author: Daphne Ippolito, Reno Kriz, Maria Kustikova, João Sedoc, Chris Callison-Burch
+      title: Comparison of Diverse Decoding Methods from Conditional Language Models
+      url: https://arxiv.org/abs/1906.06362
+    -
+      author: Ari Holtzman, Jan Buys, Li Du, Maxwell Forbes, Yejin Choi
+      title: The Curious Case of Neural Text Degeneration
+      url: https://arxiv.org/pdf/1904.09751.pdf
+  
 
 -
   date: 2020-03-03
@@ -243,11 +269,21 @@
 
 -
   date: 2020-04-28
-  title: Student Paper Presentation 
+  slides: 
+  speaker: João Sedoc
+  speaker_url: 
+  title:  Bias in Generation
+  highlights:
+  reading:
+    -
+      author: Emily Dinan, Angela Fan, Adina Williams, Jack Urbanek, Douwe Kiela, Jason Weston
+      title:  "Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation"
+      url: https://arxiv.org/abs/1911.03842
 
 -
   date: 2020-04-30
-  title: Student Paper Presentation 
+  title: Slack time or Project Presentations 
+
 
 -
   date: 2020-05-07
