@@ -163,9 +163,10 @@
 
 -
   date: 2020-02-25
+  slides: https://drive.google.com/open?id=1h9PXTdNfsHtYQRNf8L5R_2zmDyWpaZEO
   speaker: João Sedoc
   speaker_url: 
-  title: Diverse Decoding
+  title: Evaluation and Response Diversity
   highlights:
   reading:
     -
@@ -182,7 +183,7 @@
   date: 2020-02-27
   speaker: João Sedoc
   speaker_url: 
-  title: Diverse Decoding continued
+  title: Poly-encoder 
   highlights:
   reading:
     -
@@ -197,7 +198,7 @@
 
 -
   date: 2020-03-03
-  title: Story Generation
+  title: Diverse Decoding
   speaker: Daphne Ippolito
   speaker_url: 
 
