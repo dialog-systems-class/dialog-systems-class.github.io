@@ -1,11 +1,11 @@
 ---
 layout: default
-img: chatbot2.png
+img: chatbot.png
 caption: Chatbot
-title: Homework 4 "Your Chatbot!"
+title: Homework 4 "Diverse Responses and Evaluation!"
 active_tab: homework
-release_date: 2017-02-15
-due_date: 2017-03-07T14:00:00EST
+release_date: 2020-02-27
+due_date: 2020-03-11T15:00:00EST
 ---
 
 <!-- Check whether the assignment is up to date -->
@@ -23,21 +23,22 @@ This assignment is due before {{ page.due_date | date: "%I:%M%p" }} on {{ page.d
 </div>
 
 
-Training your Chatbot in  TensorFlow  <span class="text-muted">: Assignment 4</span> 
+Diverse Responses and Evaluation  <span class="text-muted">: Assignment 4</span> 
 =============================================================
 
-The point of this fourth homework assignment is to start training a new model and chatbot with new data. From the previous homeworks, we've been mostly using canned code and datasets. This is the time to break free and try to make your own model and use a dataset that you are interested in or passionate about.
+The point of the fourth assignment is to solve some issues from homework 3 and also evaluate! In particular, there are two issues (1) the responses seemed bland and (2) evaluation is difficult for social bots. The first step is to be able to train either a language model or a backwards model, so P(S|T). Then you should implement Maximum Mutual Information from [A Diversity-Promoting Objective Function for Neural Conversation Models](https://arxiv.org/abs/1510.03055). 
 
-What kind of conversations would you like to have with your own bot?
 
 Be creative and have fun.
  
 
-1. Make sure to first test your model with TensorFlow on your computer, or somewhere where you have FREE personal access.
-2. Train the pick a dataset to train on. In the README.md file of your github repo, write the details about the dataset. Why did you pick it? What were your considerations?
-3. Train the seq2seq model on the dataset.
-4. Use a more sophisticated model than seq2seq. For example try to capture context, or infer question or topic, ...
-5. Evaluate your model as well as the seq2seq model. Which does better? Also, try out your model from HW3. How does this do compared with models trained on your dataset?  Again, as you evaluate your chatbot, you should show some qualitative examples as well as train and test loss.
-6. Integrate your models with Alexa Skills.
-7. Submit homework [https://goo.gl/forms/0NrRbmfJk3OPJBmJ2](https://goo.gl/forms/0NrRbmfJk3OPJBmJ2).
+1. Re-implement the data filtering described in DialoGPT paper _OR_ [Improving Neural Conversational Models with Entropy-Based Data Filtering](https://www.aclweb.org/anthology/P19-1567/).
+2. Using the filtered data train a model on OpenSubtitles using P(T|S) and P(S|T) with filters and also when the last character is a quesionmark("?").
+3. Train P(T|S) transformer models on the PersonaChat or DialyDialog dataset using either the model from (part 2) or  Reddit pre-trained model for P(T|S).
+4. Decoder with MMI-bidi objective.
+5. Evaluate your chatbot on the mechanical turk SANDBOX using ParlAI's [model evaluator](https://parl.ai/docs/tutorial_mturk.html) and [code]((https://github.com/facebookresearch/ParlAI/tree/master/parlai/mturk/tasks/model_evaluator). 
+6. Identify issues with your chatbot and suggest possible solutions and future work.
+7. Submit homework on [Gradescpoe](https://www.gradescope.com/courses/85654).
+
+Please remember to include a README. If there are too many files that simply point to your github ... sorry about Gradescope.
 
