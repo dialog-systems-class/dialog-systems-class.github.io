@@ -181,6 +181,7 @@
 
 -
   date: 2020-02-27
+  slides: https://drive.google.com/file/d/1oBNUiLVkCQCjptNYr3njWHPg43n7cGgT/view?usp=sharing
   speaker: João Sedoc
   speaker_url: 
   title: Poly-encoder 
@@ -201,12 +202,27 @@
   title: Diverse Decoding
   speaker: Daphne Ippolito
   speaker_url: 
+  reading:
+    -
+      author: Jiwei Li, Will Monroe, Tianlin Shi, Sébastien Jean, Alan Ritter, Dan Jurafsky
+      title: Adversarial Learning for Neural Dialogue Generation
+      url: https://arxiv.org/pdf/1701.06547.pdf
+    -
+      author: Ryo Nakamura, Katsuhito Sudoh, Koichiro Yoshino, Satoshi Nakamura
+      title: Another Diversity-Promoting Objective Function for Neural Dialogue Generation 
+      url: https://arxiv.org/pdf/1811.08100.pdf
 
 
 -
   date: 2020-03-05
   title: Project brainstorming
   slides: https://www.mishicotffa.org/uploads/2/3/2/7/23271034/microsoft_word_-_brainstorming_wksht.pdf
+  reading:
+    -
+      author: Susan E. Brennan,  Anna K. Kuhlen,  Jeanne Charoy
+      title: Discourse and Dialogue 
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119170174.epcn305
+
 
 -
   date: 2020-03-10
