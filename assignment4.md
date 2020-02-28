@@ -35,7 +35,7 @@ Be creative and have fun.
 1. Re-implement the data filtering described in DialoGPT paper _OR_ [Improving Neural Conversational Models with Entropy-Based Data Filtering](https://www.aclweb.org/anthology/P19-1567/).
 2. Using the filtered data train a model on OpenSubtitles using P(T\|S) and P(S\|T) with filters and also when the last character is a quesionmark("?").
 3. Train P(T\|S) transformer models on the PersonaChat or DialyDialog dataset using either the model from (part 2) or  Reddit pre-trained model for P(T\|S).
-4. Decoder with MMI-bidi objective.
+4. Implement decoding with  MMI-bidi objective (this can be beam search reranking or sampling [nucleus or top-k]..
 5. Evaluate your chatbot on the mechanical turk SANDBOX using ParlAI's [model evaluator](https://parl.ai/docs/tutorial_mturk.html) and [code]((https://github.com/facebookresearch/ParlAI/tree/master/parlai/mturk/tasks/model_evaluator). 
 6. Identify issues with your chatbot and suggest possible solutions and future work.
 7. Submit homework on [Gradescpoe](https://www.gradescope.com/courses/85654).
