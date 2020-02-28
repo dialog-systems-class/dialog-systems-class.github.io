@@ -26,7 +26,7 @@ This assignment is due before {{ page.due_date | date: "%I:%M%p" }} on {{ page.d
 Diverse Responses and Evaluation  <span class="text-muted">: Assignment 4</span> 
 =============================================================
 
-The point of the fourth assignment is to solve some issues from homework 3 and also evaluate! In particular, there are two issues (1) the responses seemed bland and (2) evaluation is difficult for social bots. The first step is to be able to train either a language model or a backwards model, so P(S|T). Then you should implement Maximum Mutual Information from [A Diversity-Promoting Objective Function for Neural Conversation Models](https://arxiv.org/abs/1510.03055). 
+The point of the fourth assignment is to solve some issues from homework 3 and also evaluate! In particular, there are two issues (1) the responses seemed bland and (2) evaluation is difficult for social bots. The first step is to be able to train either a language model or a backwards model, so P(S\|T). Then you should implement Maximum Mutual Information from [A Diversity-Promoting Objective Function for Neural Conversation Models](https://arxiv.org/abs/1510.03055). 
 
 
 Be creative and have fun.
