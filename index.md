@@ -66,17 +66,17 @@ Course materials
 Assignments
 : Quick outline for the next assignments.
 
-* Project checkpoint 1 - due ~ March 16th
+* Project checkpoint 1 - due ~ March 26th
   * write a two page overview of the project and a 10 minute presentation
 
-* Project checkpoint 2 - due ~ April 13th
+* Project checkpoint 2 - due ~ April 16th
    * modify first document to 4 pages with initial results, another 10 minute presentation, and first demo
 
-* Final project paper submission - due ~ April 27th 
+* Final project paper submission - due ~ April 28th 
    * submit 6 page paper - for open review
 
 * Final paper reviews due - due May 1st
 
-* During the final exam period May 7th 9 AM - 12 PMx  20-30 minute presentation and demo
+* During the final exam period May 7th 9 AM - 12 PM  20-30 minute presentation and demo
 
 * Final paper submission - due ~ May 9th

@@ -234,6 +234,14 @@
 
 -
   date: 2020-03-17
+  title: Spring vacation 
+
+-
+  date: 2020-03-19
+  title: Spring vacation 
+
+-
+  date: 2020-03-24
   title: Guest Lecture
   speaker: Ferhan Ture
   reading:
@@ -251,16 +259,13 @@
       url: https://www.aclweb.org/anthology/D18-2001.pdf
 
 -
-  date: 2020-03-19
-  title: Student Paper Presentation 
-
--
-  date: 2020-03-24
-  title: Spring vacation 
+  date: 2020-03-26
+  title: Project Checkpoint 1
+  highlights: 10 minute presentations by groups 
 
 -
   date: 2020-03-26
-  title: Spring vacation 
+  title: Student Paper Presentation 
 
 -
   date: 2020-03-31
