@@ -144,6 +144,24 @@
       title:  Chatbot Evaluation and Database Expansion via Crowdsourcing
       url: http://workshop.colips.org/re-wochat/documents/04_Paper_11.pdf
 
+
+-
+  date: 2020-02-19
+  slides: https://piazza.com/class_profile/get_resource/k541crp27qs4my/k7faxj9mv873vt
+  speaker: Eugene Agichtein
+  speaker_url:  http://www.cs.emory.edu/~eugene/
+  title:  Modeling user intent and satisfaction in conversational systems
+  highlights:
+  reading:
+    -
+      author: Ali Ahmadvand, Harshita  Sahijwani, Jasoningyu Choi, Eugene Agichtein
+      title: "ConCET: Entity-Aware Topic Classification for Open-Domain Conversational Agents"
+      url: https://dl.acm.org/doi/abs/10.1145/3357384.3358048
+    -
+      author: Ali Ahmadvand, Jason Ingyu Choi, Eugene Agichtein
+      title: Contextual Dialogue Act Classification for Open-Domain Conversational Agents
+      url: https://dl.acm.org/doi/10.1145/3331184.3331375
+
 -
   date: 2020-02-20
   slides: https://drive.google.com/open?id=1NSHWa6WVS2yZTh5U9ceJcgU1IDff2XW2
