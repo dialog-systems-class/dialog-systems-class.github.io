@@ -201,7 +201,7 @@
   date: 2020-03-03
   title: Diverse Decoding
   speaker: Daphne Ippolito
-  speaker_url: 
+  speaker_url: https://www.seas.upenn.edu/~daphnei/
   reading:
     -
       author: Jiwei Li, Will Monroe, Tianlin Shi, Sébastien Jean, Alan Ritter, Dan Jurafsky
@@ -226,11 +226,28 @@
 
 -
   date: 2020-03-10
-  title: Student Paper Presentation 
+  speaker: Jung Min Lee
+  title: Topic Aware Generation
+  reading:
+    -
+      author: Chen Xing, Wei Wu, Yu Wu, Jie Liu, Yalou Huang, Ming Zhou, Wei-Ying Ma
+      title: Topic Aware Neural Response Generation
+      url: https://arxiv.org/abs/1606.08340
+    -
+      author: Ashutosh Baheti, Alan Ritter, Jiwei Li, Bill Dolan
+      title: Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints
+      url: https://www.aclweb.org/anthology/D18-1431/
+
 
 -
   date: 2020-03-12
-  title: Student Paper Presentation 
+  speaker: Aaron Mueller
+  title: Personality and Identity for Generation
+    -
+      author: Qiao Qian, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu
+      title: "Assigning personality/identity to a chatting machine for coherent conversation generation"
+      url: https://arxiv.org/abs/1706.02861
+
 
 -
   date: 2020-03-17
@@ -260,20 +277,57 @@
 
 -
   date: 2020-03-26
+  title: Persona and Personalization
+  speaker: Alexandra DeLucia
+  reading:
+    -
+      author: Jiwei Li, Michel Galley, Chris Brockett, Georgios P. Spithourakis, Jianfeng Gao, Bill Dolan
+      title: "A Persona-Based Neural Conversation Model"
+      url: https://arxiv.org/abs/1603.06155
+    -
+      author: Yinhe Zheng, Rongsheng Zhang, Xiaoxi Mao, Minlie Huang
+      title: "A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data"
+      url: https://arxiv.org/abs/1911.04700
+
+-
+  date: 2020-03-26
+  title: Reinforcement Learning for Dialog Generation
+  speaker: Qianwei Li
+  reading:
+    -
+      author: Tsung-Hsien Wen, Yishu Miao, Phil Blunsom, Steve Young
+      title: Latent Intention Dialogue Models
+      url: https://arxiv.org/abs/1705.10229
+    -
+      author: Nabiha Asghar, Pascal Poupart, Xin Jiang, Hang Li
+      title: Deep Active Learning for Dialogue Generation
+      url: https://arxiv.org/abs/1612.03929
+ 
+
+-
+  date: 2020-03-31
   title: Project Checkpoint 1
   highlights: 5 minute presentations by groups 
 
 -
-  date: 2020-03-26
-  title: Student Paper Presentation 
-
--
-  date: 2020-03-31
-  title: Student Paper Presentation 
+  date: 2020-04-02
+  title: Dialog as a Text Adventure Problem
+  speaker: Mitchell Gordon
+  reading:
+    -
+      author: Jack Urbanek, Angela Fan, Siddharth Karamcheti, Saachi Jain, Samuel Humeau, Emily Dinan, Tim Rocktäschel, Douwe Kiela, Arthur Szlam, Jason Weston
+      title: Learning to Speak and Act in a Fantasy Text Adventure Game
+      url: https://arxiv.org/abs/1903.03094
 
 -
   date: 2020-04-02
-  title: Student Paper Presentation 
+  title: Non-Collaborative Dialog
+  speaker: Xiang Li
+  reading:
+    -
+      author: Yu Li, Kun Qian, Weiyan Shi, Zhou Yu
+      title: "End-to-End Trainable Non-Collaborative Dialog System"
+      url: https://arxiv.org/abs/1911.10742
 
 -
   date: 2020-04-07
