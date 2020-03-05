@@ -216,7 +216,7 @@
 -
   date: 2020-03-05
   title: Project brainstorming
-  slides: https://www.mishicotffa.org/uploads/2/3/2/7/23271034/microsoft_word_-_brainstorming_wksht.pdf
+  slides: https://docs.google.com/document/d/1d8SfR8kl0UF6esVRu_VwcVGDMlQ2vMO9mIZikZywvbg/edit?usp=sharing
   reading:
     -
       author: Susan E. Brennan,  Anna K. Kuhlen,  Jeanne Charoy
@@ -322,6 +322,11 @@
       author: Emily Dinan, Angela Fan, Adina Williams, Jack Urbanek, Douwe Kiela, Jason Weston
       title:  "Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation"
       url: https://arxiv.org/abs/1911.03842
+    -
+      author: Amanda Cercas Curry, Verena Rieser
+      title:  "A Crowd-based Evaluation of Abuse Response Strategies in Conversational Agents"
+      url: https://arxiv.org/abs/1909.04387
+    
 
 -
   date: 2020-04-30
