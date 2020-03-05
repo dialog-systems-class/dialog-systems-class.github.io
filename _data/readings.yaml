@@ -201,7 +201,7 @@
   date: 2020-03-03
   title: Diverse Decoding
   speaker: Daphne Ippolito
-  speaker_url: 
+  speaker_url: https://www.seas.upenn.edu/~daphnei/
   reading:
     -
       author: Jiwei Li, Will Monroe, Tianlin Shi, Sébastien Jean, Alan Ritter, Dan Jurafsky
@@ -226,14 +226,40 @@
 
 -
   date: 2020-03-10
-  title: Student Paper Presentation 
+  speaker: Jung Min Lee
+  title: Topic Aware Generation
+  reading:
+    -
+      author: Chen Xing, Wei Wu, Yu Wu, Jie Liu, Yalou Huang, Ming Zhou, Wei-Ying Ma
+      title: Topic Aware Neural Response Generation
+      url: https://arxiv.org/abs/1606.08340
+    -
+      author: Ashutosh Baheti, Alan Ritter, Jiwei Li, Bill Dolan
+      title: Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints
+      url: https://www.aclweb.org/anthology/D18-1431/
+
 
 -
   date: 2020-03-12
-  title: Student Paper Presentation 
+  speaker: Aaron Mueller
+  title: Personality and Identity for Generation
+  reading:
+    -
+      author: Qiao Qian, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu
+      title: "Assigning Personality/Identity to a Chatting Machine for Coherent Conversation Generation"
+      url: https://arxiv.org/abs/1706.02861
+
 
 -
   date: 2020-03-17
+  title: Spring vacation 
+
+-
+  date: 2020-03-19
+  title: Spring vacation 
+
+-
+  date: 2020-03-24
   title: Guest Lecture
   speaker: Ferhan Ture
   reading:
@@ -251,24 +277,58 @@
       url: https://www.aclweb.org/anthology/D18-2001.pdf
 
 -
-  date: 2020-03-19
-  title: Student Paper Presentation 
-
--
-  date: 2020-03-24
-  title: Spring vacation 
+  date: 2020-03-26
+  title: Persona and Personalization
+  speaker: Alexandra DeLucia
+  reading:
+    -
+      author: Jiwei Li, Michel Galley, Chris Brockett, Georgios P. Spithourakis, Jianfeng Gao, Bill Dolan
+      title: "A Persona-Based Neural Conversation Model"
+      url: https://arxiv.org/abs/1603.06155
+    -
+      author: Yinhe Zheng, Rongsheng Zhang, Xiaoxi Mao, Minlie Huang
+      title: "A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data"
+      url: https://arxiv.org/abs/1911.04700
 
 -
   date: 2020-03-26
-  title: Spring vacation 
+  title: Reinforcement Learning for Dialog Generation
+  speaker: Qianwei Li
+  reading:
+    -
+      author: Tsung-Hsien Wen, Yishu Miao, Phil Blunsom, Steve Young
+      title: Latent Intention Dialogue Models
+      url: https://arxiv.org/abs/1705.10229
+    -
+      author: Nabiha Asghar, Pascal Poupart, Xin Jiang, Hang Li
+      title: Deep Active Learning for Dialogue Generation
+      url: https://arxiv.org/abs/1612.03929
+ 
 
 -
   date: 2020-03-31
-  title: Student Paper Presentation 
+  title: Project Checkpoint 1
+  highlights: 5 minute presentations by groups 
 
 -
   date: 2020-04-02
-  title: Student Paper Presentation 
+  title: Dialog as a Text Adventure Problem
+  speaker: Mitchell Gordon
+  reading:
+    -
+      author: Jack Urbanek, Angela Fan, Siddharth Karamcheti, Saachi Jain, Samuel Humeau, Emily Dinan, Tim Rocktäschel, Douwe Kiela, Arthur Szlam, Jason Weston
+      title: Learning to Speak and Act in a Fantasy Text Adventure Game
+      url: https://arxiv.org/abs/1903.03094
+
+-
+  date: 2020-04-02
+  title: Non-Collaborative Dialog
+  speaker: Xiang Li
+  reading:
+    -
+      author: Yu Li, Kun Qian, Weiyan Shi, Zhou Yu
+      title: "End-to-End Trainable Non-Collaborative Dialog System"
+      url: https://arxiv.org/abs/1911.10742
 
 -
   date: 2020-04-07
@@ -292,11 +352,48 @@
 
 -
   date: 2020-04-09
-  title: Student Paper Presentation 
+  speaker: Nathaniel Weir
+  title: Visual QA with Reinforcement Learning
+  reading:
+    -
+      author: Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee, Dhruv Batra
+      title: Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning
+      url: https://arxiv.org/abs/1703.06585
+
+-
+  date: 2020-04-09
+  speaker: David Mueller
+  title: Learning Implicit Preferences with Off-Policy RL
+  reading:
+    -
+      author: Natasha Jaques, Asma Ghandeharioun, Judy Hanwen Shen, Craig Ferguson, Agata Lapedriza, Noah Jones, Shixiang Gu, Rosalind Picard
+      title: Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog
+      url: https://arxiv.org/abs/1907.00456
 
 -
   date: 2020-04-14
-  title: Student Paper Presentation 
+  speaker: Darius Irani
+  title: Inverse Reinforcement Learning for Dialog
+  reading:
+    -
+      author: Ziming Li, Julia Kiseleva, Maarten de Rijke
+      title: "Dialogue Generation: From Imitation Learning to Inverse Reinforcement Learning"
+      url: https://arxiv.org/abs/1812.03509
+
+-
+  date: 2020-04-14
+  speaker: Rachel Wicks
+  title: Decoding with Lingustic Pragmatics
+  reading:
+    -
+      author: "Shang-Yu Su, Kai-Ling Lo, Yi-Ting Yeh, Yun-Nung Chen"
+      title: "Natural Language Generation by Hierarchical Decoding with Linguistic Patterns"
+      url: https://www.aclweb.org/anthology/N18-2010.pdf
+    -
+      author: "Wei-Jen Ko, Greg Durrett, Junyi Jessy Li"
+      title: "Linguistically-Informed Specificity and Semantic Plausibility for Dialogue Generation"
+      url: https://www.aclweb.org/anthology/N19-1349/
+
 
 -
   date: 2020-04-16
