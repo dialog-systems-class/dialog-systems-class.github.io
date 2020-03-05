@@ -243,7 +243,9 @@
   date: 2020-03-12
   speaker: Aaron Mueller
   title: Personality and Identity for Generation
+  reading:
     -
+      author: Qiao Qian, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu
       title: "Assigning Personality/Identity to a Chatting Machine for Coherent Conversation Generation"
       url: https://arxiv.org/abs/1706.02861
 
