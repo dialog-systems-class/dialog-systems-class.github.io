@@ -5,7 +5,7 @@ caption: Chatbot
 title: Homework 4 "Diverse Responses and Evaluation!"
 active_tab: homework
 release_date: 2020-02-27
-due_date: 2020-03-13T15:00:00EST
+due_date: 2020-03-23T15:00:00EST
 ---
 
 <!-- Check whether the assignment is up to date -->
