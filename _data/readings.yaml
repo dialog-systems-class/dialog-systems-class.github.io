@@ -260,14 +260,7 @@
 
 -
   date: 2020-03-12
-  speaker: Aaron Mueller
-  title: Personality and Identity for Generation
-  reading:
-    -
-      author: Qiao Qian, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu
-      title: "Assigning Personality/Identity to a Chatting Machine for Coherent Conversation Generation"
-      url: https://arxiv.org/abs/1706.02861
-
+  title: Class cancelled
 
 -
   date: 2020-03-17
@@ -279,21 +272,13 @@
 
 -
   date: 2020-03-24
-  title: Guest Lecture
-  speaker: Ferhan Ture
+  speaker: Aaron Mueller
+  title: Personality and Identity for Generation
   reading:
     -
-      author: Jinfeng Rao, Ferhan Ture, Hua He, Oliver Jojic, Jimmy Lin
-      title: "Talking to your tv: Context-aware voice search with hierarchical recurrent neural networks"
-      url: https://dl.acm.org/doi/abs/10.1145/3132847.3132893
-    -
-      author: Ferhan Ture, Jinfeng Rao, Raphael Tang, Jimmy Lin
-      title: Challenges and Opportunities in Understanding Spoken Queries Directed at Modern Entertainment Platforms
-      url: https://dl.acm.org/doi/abs/10.1145/3331184.3331433
-    -
-      author: Md Iftekhar Tanveer, Ferhan Türe
-      title: "SyntaViz: Visualizing Voice Queries through a Syntax-Driven Hierarchical Ontology"
-      url: https://www.aclweb.org/anthology/D18-2001.pdf
+      author: Qiao Qian, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu
+      title: "Assigning Personality/Identity to a Chatting Machine for Coherent Conversation Generation"
+      url: https://arxiv.org/abs/1706.02861
 
 -
   date: 2020-03-26
