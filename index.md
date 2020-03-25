@@ -66,8 +66,8 @@ Course materials
 Assignments
 : Quick outline for the next assignments.
 
-* Project checkpoint 1 - due ~ March 26th
-  * write a two page overview of the project and a 10 minute presentation
+* Project checkpoint 1 - due March 31st
+  * write a two page overview of the project and a 5 minute presentation
 
 * Project checkpoint 2 - due ~ April 16th
    * modify first document to 4 pages with initial results, another 10 minute presentation, and first demo
