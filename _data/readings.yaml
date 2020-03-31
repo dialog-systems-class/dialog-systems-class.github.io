@@ -295,7 +295,12 @@
       url: https://arxiv.org/abs/1911.04700
 
 -
-  date: 2020-03-26
+  date: 2020-03-31
+  title: Project Checkpoint 1
+  highlights: 5 minute presentations by groups 
+
+-
+  date: 2020-03-31
   title: Reinforcement Learning for Dialog Generation
   speaker: Qianwei Li
   reading:
@@ -308,11 +313,6 @@
       title: Deep Active Learning for Dialogue Generation
       url: https://arxiv.org/abs/1612.03929
  
-
--
-  date: 2020-03-31
-  title: Project Checkpoint 1
-  highlights: 5 minute presentations by groups 
 
 -
   date: 2020-04-02
