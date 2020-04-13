@@ -273,6 +273,7 @@
 -
   date: 2020-03-24
   speaker: Aaron Mueller
+  slides: https://drive.google.com/file/d/17gy1bnCVJWNFg7AYajwZnEm0Eja5qTCb/view?usp=sharing
   title: Personality and Identity for Generation
   reading:
     -
@@ -284,6 +285,7 @@
   date: 2020-03-26
   title: Persona and Personalization
   speaker: Alexandra DeLucia
+  slides: https://drive.google.com/open?id=1E8Hgr-m9KzoHaYoGpexJGzZLFdCWAlx_
   reading:
     -
       author: Jiwei Li, Michel Galley, Chris Brockett, Georgios P. Spithourakis, Jianfeng Gao, Bill Dolan
@@ -303,6 +305,7 @@
   date: 2020-03-31
   title: Reinforcement Learning for Dialog Generation
   speaker: Qianwei Li
+  slides: https://drive.google.com/open?id=10g-CxtwmcIAVqR-h1v8lVMXwZd_NAsx6
   reading:
     -
       author: Tsung-Hsien Wen, Yishu Miao, Phil Blunsom, Steve Young
@@ -325,7 +328,7 @@
       url: https://arxiv.org/abs/1903.03094
 
 -
-  date: 2020-04-02
+  date: 2020-04-09
   title: Non-Collaborative Dialog
   speaker: Xiang Li
   reading:
