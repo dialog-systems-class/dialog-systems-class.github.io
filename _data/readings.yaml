@@ -433,17 +433,6 @@
 
 -
   date: 2020-04-23
-  speaker: Dylan Lewis
-  title: Using Knowledge for Generation
-  reading:
-    -
-      author: "Rongzhong Lian, Min Xie, Fan Wang, Jinhua Peng, Hua Wu"
-      title: "Learning to Select Knowledge for Response Generation in Dialog Systems"
-      url: https://www.ijcai.org/Proceedings/2019/0706.pdf
-
-
--
-  date: 2020-04-28
   speaker: Elias Stengel-Eskin
   title: Knowledge Enhancement 
   reading:
