@@ -328,16 +328,6 @@
       url: https://arxiv.org/abs/1903.03094
 
 -
-  date: 2020-04-09
-  title: Non-Collaborative Dialog
-  speaker: Xiang Li
-  reading:
-    -
-      author: Yu Li, Kun Qian, Weiyan Shi, Zhou Yu
-      title: "End-to-End Trainable Non-Collaborative Dialog System"
-      url: https://arxiv.org/abs/1911.10742
-
--
   date: 2020-04-07
   slides: 
   speaker: Oluwatobi Olabiyi
@@ -356,6 +346,17 @@
       author: Oluwatobi O Olabiyi, Anish Khazane, Erik T Mueller
       title: "A Persona-based Multi-turn Conversation Model in an Adversarial Learning Framework"
       url: https://arxiv.org/pdf/1905.01998.pdf
+
+-
+  date: 2020-04-09
+  title: Non-Collaborative Dialog
+  speaker: Xiang Li
+  reading:
+    -
+      author: Yu Li, Kun Qian, Weiyan Shi, Zhou Yu
+      title: "End-to-End Trainable Non-Collaborative Dialog System"
+      url: https://arxiv.org/abs/1911.10742
+
 
 -
   date: 2020-04-09
