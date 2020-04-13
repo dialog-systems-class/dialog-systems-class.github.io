@@ -365,7 +365,7 @@
       url: https://arxiv.org/abs/1703.06585
 
 -
-  date: 2020-04-09
+  date: 2020-04-14
   speaker: David Mueller
   title: Learning Implicit Preferences with Off-Policy RL
   reading:
@@ -385,7 +385,7 @@
       url: https://arxiv.org/abs/1812.03509
 
 -
-  date: 2020-04-14
+  date: 2020-04-16
   speaker: Rachel Wicks
   title: Decoding with Lingustic Pragmatics
   reading:
@@ -400,19 +400,89 @@
 
 
 -
-  date: 2020-04-16
-  title: Student Paper Presentation 
+  date: 2020-04-21
+  speaker: Christian Cosgrove
+  title: Conditional Variational Autoencoder Discourse Level Diversity
+  reading:
+    -
+      author: "Tiancheng Zhao, Ran Zhao, Maxine Eskenazi"
+      title: "Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders"
+      url: https://www.aclweb.org/anthology/P17-1061/
 
 -
   date: 2020-04-21
-  title: Student Paper Presentation 
+  speaker: Amrit Nidhi
+  title: Self Feeding Chatbot
+  reading:
+    -
+      author: "Braden Hancock, Antoine Bordes, Pierre-Emmanuel Mazaré, Jason Weston"
+      title: "Learning from Dialogue after Deployment: Feed Yourself, Chatbot!"
+      url: https://www.aclweb.org/anthology/P19-1358/
+
 
 -
   date: 2020-04-23
-  title: Student Paper Presentation 
+  speaker: Dylan Lewis
+  title: Using Knowledge for Generation
+  reading:
+    -
+      author: "Rongzhong Lian, Min Xie, Fan Wang, Jinhua Peng, Hua Wu"
+      title: "Learning to Select Knowledge for Response Generation in Dialog Systems"
+      url: https://www.ijcai.org/Proceedings/2019/0706.pdf
+
+
+-
+  date: 2020-04-23
+  speaker: Dylan Lewis
+  title: Using Knowledge for Generation
+  reading:
+    -
+      author: "Rongzhong Lian, Min Xie, Fan Wang, Jinhua Peng, Hua Wu"
+      title: "Learning to Select Knowledge for Response Generation in Dialog Systems"
+      url: https://www.ijcai.org/Proceedings/2019/0706.pdf
+
 
 -
   date: 2020-04-28
+  speaker: Elias Stengel-Eskin
+  title: Knowledge Enhancement 
+  reading:
+    -
+      author: "Yu Wu, Wei Wu, Zhoujun Li, Ming Zhou"
+      title: "Knowledge Enhanced Hybrid Neural Network for Text Matching"
+      url: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16225/16116
+    -
+      author: "Marjan Ghazvininejad, Chris Brockett, Ming-Wei Chang, Bill Dolan, Jianfeng Gao, Wen-tau Yih, Michel Galley"
+      title: "A Knowledge-Grounded Neural Conversation Model"
+      url: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16710/16057
+
+-
+  date: 2020-04-28
+  speaker: Jung Min Lee
+  title: Teach me about Wikipedia
+  reading:
+    -
+      author: "Emily Dinan, Stephen Roller, Kurt Shuster, Angela Fan, Michael Auli, Jason Weston"
+      title: "Wizard of Wikipedia: Knowledge-Powered Conversational agents"
+      url: https://openreview.net/pdf?id=r1l73iRqKm
+
+-
+  date: 2020-04-30
+  speaker: Carlos Aguirre
+  title: Empathy in Dialog
+  reading:
+    -
+      author: "Hannah Rashkin, Eric Michael Smith, Margaret Li, Y-Lan Boureau"
+      title: "Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset"
+      url: https://www.aclweb.org/anthology/P19-1534/
+    -
+      author: "Chenyang Huang, Osmar Zaïane, Amine Trabelsi, Nouha Dziri"
+      title: "Automatic Dialogue Generation with Expressed Emotions"
+      url: https://www.aclweb.org/anthology/N18-2008/
+
+
+-
+  date: 2020-04-30
   slides: 
   speaker: João Sedoc
   speaker_url: 
@@ -428,11 +498,6 @@
       title:  "A Crowd-based Evaluation of Abuse Response Strategies in Conversational Agents"
       url: https://arxiv.org/abs/1909.04387
     
-
--
-  date: 2020-04-30
-  title: Slack time or Project Presentations 
-
 
 -
   date: 2020-05-07
