@@ -70,7 +70,7 @@ Assignments
   * write a two page overview of the project and a 5 minute presentation
 
 * Project checkpoint 2 - due ~ April 16th
-   * modify first document to 4 pages with initial results, another 10 minute presentation, and first demo
+   * modify first document to 4 pages with initial results and another 5 minute presentation
 
 * Final project paper submission - due ~ April 28th 
    * submit 6 page paper - for open review
