@@ -72,7 +72,7 @@ Assignments
 * Project checkpoint 2 - due ~ April 16th
    * modify first document to 4 pages with initial results and another 5 minute presentation
 
-* Final project paper submission - due ~ April 28th 
+* Final project paper submission - due ~ April 30th 
    * submit 6 page paper - for open review
 
 * Final paper reviews due - due May 1st
