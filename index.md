@@ -75,7 +75,7 @@ Assignments
 * Final project paper submission - due ~ April 30th 
    * submit 6 page paper - for open review
 
-* Final paper reviews due - due May 1st
+* Final paper reviews due - May 3rd
 
 * During the final exam period May 7th 9 AM - 12 PM  20-30 minute presentation and demo
 
