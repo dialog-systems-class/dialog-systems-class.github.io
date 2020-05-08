@@ -79,4 +79,4 @@ Assignments
 
 * During the final exam period May 7th 9 AM - 12 PM  20-30 minute presentation and demo
 
-* Final paper submission - due ~ May 9th
+* Final paper submission - due ~ May 11th
